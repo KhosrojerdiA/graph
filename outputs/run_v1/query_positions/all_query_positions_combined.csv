@@ -1,0 +1,2401 @@
+data_name,model_name,graph_model,node_id,retrieval_position,attack_position,delta,success_flag
+Cora,Degree,GCN,55,1,1,0,0
+Cora,Degree,GCN,59,1,1,0,0
+Cora,Degree,GCN,65,1,3,2,1
+Cora,Degree,GCN,73,6,5,-1,0
+Cora,Degree,GCN,88,1,1,0,0
+Cora,Degree,GCN,89,2,2,0,0
+Cora,Degree,GCN,94,3,3,0,0
+Cora,Degree,GCN,95,1,1,0,0
+Cora,Degree,GCN,109,3,4,1,1
+Cora,Degree,GCN,118,1,1,0,0
+Cora,Degree,GCN,154,2,4,2,1
+Cora,Degree,GCN,180,1,1,0,0
+Cora,Degree,GCN,210,1,1,0,0
+Cora,Degree,GCN,218,1,1,0,0
+Cora,Degree,GCN,236,1,1,0,0
+Cora,Degree,GCN,239,1,1,0,0
+Cora,Degree,GCN,279,1,1,0,0
+Cora,Degree,GCN,306,1,1,0,0
+Cora,Degree,GCN,310,1,1,0,0
+Cora,Degree,GCN,316,2,4,2,1
+Cora,Degree,GCN,350,1,5,4,1
+Cora,Degree,GCN,364,1,1,0,0
+Cora,Degree,GCN,415,2,3,1,1
+Cora,Degree,GCN,429,1,1,0,0
+Cora,Degree,GCN,436,1,1,0,0
+Cora,Degree,GCN,441,45,29,-16,0
+Cora,Degree,GCN,454,7,7,0,0
+Cora,Degree,GCN,456,60,67,7,1
+Cora,Degree,GCN,487,1,1,0,0
+Cora,Degree,GCN,505,1,1,0,0
+Cora,Degree,GCN,507,3,4,1,1
+Cora,Degree,GCN,519,1,5,4,1
+Cora,Degree,GCN,525,1,1,0,0
+Cora,Degree,GCN,565,1,1,0,0
+Cora,Degree,GCN,577,17,18,1,1
+Cora,Degree,GCN,598,1,1,0,0
+Cora,Degree,GCN,645,1,1,0,0
+Cora,Degree,GCN,657,29,76,47,1
+Cora,Degree,GCN,661,1,1,0,0
+Cora,Degree,GCN,687,1,1,0,0
+Cora,Degree,GCN,733,7,7,0,0
+Cora,Degree,GCN,734,54,39,-15,0
+Cora,Degree,GCN,736,2,5,3,1
+Cora,Degree,GCN,748,1,1,0,0
+Cora,Degree,GCN,756,1,6,5,1
+Cora,Degree,GCN,963,1,1,0,0
+Cora,Degree,GCN,973,1,1,0,0
+Cora,Degree,GCN,1013,1,1,0,0
+Cora,Degree,GCN,1015,1,3,2,1
+Cora,Degree,GCN,1042,1,1,0,0
+Cora,Degree,GCN,1050,1,1,0,0
+Cora,Degree,GCN,1072,2,2,0,0
+Cora,Degree,GCN,1103,1,1,0,0
+Cora,Degree,GCN,1119,1,1,0,0
+Cora,Degree,GCN,1131,1,1,0,0
+Cora,Degree,GCN,1154,1,1,0,0
+Cora,Degree,GCN,1169,1,1,0,0
+Cora,Degree,GCN,1171,1,1,0,0
+Cora,Degree,GCN,1224,1,1,0,0
+Cora,Degree,GCN,1229,1,1,0,0
+Cora,Degree,GCN,1257,2,4,2,1
+Cora,Degree,GCN,1309,1,1,0,0
+Cora,Degree,GCN,1317,1,1,0,0
+Cora,Degree,GCN,1351,1,3,2,1
+Cora,Degree,GCN,1358,1,1,0,0
+Cora,Degree,GCN,1367,32,32,0,0
+Cora,Degree,GCN,1413,1,1,0,0
+Cora,Degree,GCN,1416,1,1,0,0
+Cora,Degree,GCN,1441,2,3,1,1
+Cora,Degree,GCN,1483,1,1,0,0
+Cora,Degree,GCN,1505,1,1,0,0
+Cora,Degree,GCN,1542,7,8,1,1
+Cora,Degree,GCN,1583,3,3,0,0
+Cora,Degree,GCN,1602,1,1,0,0
+Cora,Degree,GCN,1623,1,1,0,0
+Cora,Degree,GCN,1624,1,1,0,0
+Cora,Degree,GCN,1628,1,4,3,1
+Cora,Degree,GCN,1655,1,1,0,0
+Cora,Degree,GCN,1682,1,2,1,1
+Cora,Degree,GCN,1692,1,1,0,0
+Cora,Degree,GCN,1701,1,1,0,0
+Cora,Degree,GCN,1702,7,6,-1,0
+Cora,Degree,GCN,1703,1,1,0,0
+Cora,Degree,GCN,1725,3,2,-1,0
+Cora,Degree,GCN,1740,1,1,0,0
+Cora,Degree,GCN,1742,1,1,0,0
+Cora,Degree,GCN,1765,1,1,0,0
+Cora,Degree,GCN,1776,1,1,0,0
+Cora,Degree,GCN,1810,1,1,0,0
+Cora,Degree,GCN,1842,1,1,0,0
+Cora,Degree,GCN,1869,1,3,2,1
+Cora,Degree,GCN,1894,9,9,0,0
+Cora,Degree,GCN,1902,13,12,-1,0
+Cora,Degree,GCN,1912,1,2,1,1
+Cora,Degree,GCN,1914,1,1,0,0
+Cora,Degree,GCN,1927,1,1,0,0
+Cora,Degree,GCN,1950,1,1,0,0
+Cora,Degree,GCN,1952,3,5,2,1
+Cora,Degree,GCN,1966,2,2,0,0
+Cora,Degree,GCN,1973,1,1,0,0
+Cora,Page Rank,GCN,55,1,1,0,0
+Cora,Page Rank,GCN,59,1,1,0,0
+Cora,Page Rank,GCN,65,1,3,2,1
+Cora,Page Rank,GCN,73,6,7,1,1
+Cora,Page Rank,GCN,88,1,1,0,0
+Cora,Page Rank,GCN,89,2,5,3,1
+Cora,Page Rank,GCN,94,3,4,1,1
+Cora,Page Rank,GCN,95,1,1,0,0
+Cora,Page Rank,GCN,109,3,4,1,1
+Cora,Page Rank,GCN,118,1,1,0,0
+Cora,Page Rank,GCN,154,2,4,2,1
+Cora,Page Rank,GCN,180,1,1,0,0
+Cora,Page Rank,GCN,210,1,1,0,0
+Cora,Page Rank,GCN,218,1,1,0,0
+Cora,Page Rank,GCN,236,1,3,2,1
+Cora,Page Rank,GCN,239,1,1,0,0
+Cora,Page Rank,GCN,279,1,1,0,0
+Cora,Page Rank,GCN,306,1,1,0,0
+Cora,Page Rank,GCN,310,1,1,0,0
+Cora,Page Rank,GCN,316,2,2,0,0
+Cora,Page Rank,GCN,350,1,2,1,1
+Cora,Page Rank,GCN,364,1,1,0,0
+Cora,Page Rank,GCN,415,2,3,1,1
+Cora,Page Rank,GCN,429,1,1,0,0
+Cora,Page Rank,GCN,436,1,1,0,0
+Cora,Page Rank,GCN,441,45,48,3,1
+Cora,Page Rank,GCN,454,7,7,0,0
+Cora,Page Rank,GCN,456,60,68,8,1
+Cora,Page Rank,GCN,487,1,1,0,0
+Cora,Page Rank,GCN,505,1,1,0,0
+Cora,Page Rank,GCN,507,3,3,0,0
+Cora,Page Rank,GCN,519,1,1,0,0
+Cora,Page Rank,GCN,525,1,1,0,0
+Cora,Page Rank,GCN,565,1,1,0,0
+Cora,Page Rank,GCN,577,17,18,1,1
+Cora,Page Rank,GCN,598,1,1,0,0
+Cora,Page Rank,GCN,645,1,1,0,0
+Cora,Page Rank,GCN,657,29,52,23,1
+Cora,Page Rank,GCN,661,1,1,0,0
+Cora,Page Rank,GCN,687,1,1,0,0
+Cora,Page Rank,GCN,733,7,7,0,0
+Cora,Page Rank,GCN,734,54,47,-7,0
+Cora,Page Rank,GCN,736,2,4,2,1
+Cora,Page Rank,GCN,748,1,1,0,0
+Cora,Page Rank,GCN,756,1,4,3,1
+Cora,Page Rank,GCN,963,1,1,0,0
+Cora,Page Rank,GCN,973,1,1,0,0
+Cora,Page Rank,GCN,1013,1,1,0,0
+Cora,Page Rank,GCN,1015,1,3,2,1
+Cora,Page Rank,GCN,1042,1,1,0,0
+Cora,Page Rank,GCN,1050,1,1,0,0
+Cora,Page Rank,GCN,1072,2,2,0,0
+Cora,Page Rank,GCN,1103,1,1,0,0
+Cora,Page Rank,GCN,1119,1,1,0,0
+Cora,Page Rank,GCN,1131,1,1,0,0
+Cora,Page Rank,GCN,1154,1,1,0,0
+Cora,Page Rank,GCN,1169,1,1,0,0
+Cora,Page Rank,GCN,1171,1,1,0,0
+Cora,Page Rank,GCN,1224,1,1,0,0
+Cora,Page Rank,GCN,1229,1,1,0,0
+Cora,Page Rank,GCN,1257,2,4,2,1
+Cora,Page Rank,GCN,1309,1,1,0,0
+Cora,Page Rank,GCN,1317,1,1,0,0
+Cora,Page Rank,GCN,1351,1,1,0,0
+Cora,Page Rank,GCN,1358,1,1,0,0
+Cora,Page Rank,GCN,1367,32,32,0,0
+Cora,Page Rank,GCN,1413,1,1,0,0
+Cora,Page Rank,GCN,1416,1,1,0,0
+Cora,Page Rank,GCN,1441,2,3,1,1
+Cora,Page Rank,GCN,1483,1,1,0,0
+Cora,Page Rank,GCN,1505,1,1,0,0
+Cora,Page Rank,GCN,1542,7,7,0,0
+Cora,Page Rank,GCN,1583,3,4,1,1
+Cora,Page Rank,GCN,1602,1,1,0,0
+Cora,Page Rank,GCN,1623,1,1,0,0
+Cora,Page Rank,GCN,1624,1,1,0,0
+Cora,Page Rank,GCN,1628,1,1,0,0
+Cora,Page Rank,GCN,1655,1,1,0,0
+Cora,Page Rank,GCN,1682,1,2,1,1
+Cora,Page Rank,GCN,1692,1,1,0,0
+Cora,Page Rank,GCN,1701,1,1,0,0
+Cora,Page Rank,GCN,1702,7,6,-1,0
+Cora,Page Rank,GCN,1703,1,2,1,1
+Cora,Page Rank,GCN,1725,3,4,1,1
+Cora,Page Rank,GCN,1740,1,1,0,0
+Cora,Page Rank,GCN,1742,1,1,0,0
+Cora,Page Rank,GCN,1765,1,1,0,0
+Cora,Page Rank,GCN,1776,1,1,0,0
+Cora,Page Rank,GCN,1810,1,1,0,0
+Cora,Page Rank,GCN,1842,1,2,1,1
+Cora,Page Rank,GCN,1869,1,3,2,1
+Cora,Page Rank,GCN,1894,9,9,0,0
+Cora,Page Rank,GCN,1902,13,13,0,0
+Cora,Page Rank,GCN,1912,1,2,1,1
+Cora,Page Rank,GCN,1914,1,1,0,0
+Cora,Page Rank,GCN,1927,1,1,0,0
+Cora,Page Rank,GCN,1950,1,1,0,0
+Cora,Page Rank,GCN,1952,3,6,3,1
+Cora,Page Rank,GCN,1966,2,2,0,0
+Cora,Page Rank,GCN,1973,1,1,0,0
+Cora,Viking,GCN,55,1,1,0,0
+Cora,Viking,GCN,59,1,1,0,0
+Cora,Viking,GCN,65,1,1,0,0
+Cora,Viking,GCN,73,6,7,1,1
+Cora,Viking,GCN,88,1,1,0,0
+Cora,Viking,GCN,89,2,3,1,1
+Cora,Viking,GCN,94,3,3,0,0
+Cora,Viking,GCN,95,1,1,0,0
+Cora,Viking,GCN,109,3,3,0,0
+Cora,Viking,GCN,118,1,1,0,0
+Cora,Viking,GCN,154,2,3,1,1
+Cora,Viking,GCN,180,1,1,0,0
+Cora,Viking,GCN,210,1,1,0,0
+Cora,Viking,GCN,218,1,1,0,0
+Cora,Viking,GCN,236,1,1,0,0
+Cora,Viking,GCN,239,1,1,0,0
+Cora,Viking,GCN,279,1,1,0,0
+Cora,Viking,GCN,306,1,1,0,0
+Cora,Viking,GCN,310,1,1,0,0
+Cora,Viking,GCN,316,2,2,0,0
+Cora,Viking,GCN,350,1,1,0,0
+Cora,Viking,GCN,364,1,1,0,0
+Cora,Viking,GCN,415,2,3,1,1
+Cora,Viking,GCN,429,1,1,0,0
+Cora,Viking,GCN,436,1,1,0,0
+Cora,Viking,GCN,441,45,64,19,1
+Cora,Viking,GCN,454,7,3,-4,0
+Cora,Viking,GCN,456,60,50,-10,0
+Cora,Viking,GCN,487,1,1,0,0
+Cora,Viking,GCN,505,1,1,0,0
+Cora,Viking,GCN,507,3,3,0,0
+Cora,Viking,GCN,519,1,1,0,0
+Cora,Viking,GCN,525,1,1,0,0
+Cora,Viking,GCN,565,1,1,0,0
+Cora,Viking,GCN,577,17,16,-1,0
+Cora,Viking,GCN,598,1,1,0,0
+Cora,Viking,GCN,645,1,1,0,0
+Cora,Viking,GCN,657,29,35,6,1
+Cora,Viking,GCN,661,1,1,0,0
+Cora,Viking,GCN,687,1,1,0,0
+Cora,Viking,GCN,733,7,7,0,0
+Cora,Viking,GCN,734,54,56,2,1
+Cora,Viking,GCN,736,2,1,-1,0
+Cora,Viking,GCN,748,1,1,0,0
+Cora,Viking,GCN,756,1,1,0,0
+Cora,Viking,GCN,963,1,1,0,0
+Cora,Viking,GCN,973,1,1,0,0
+Cora,Viking,GCN,1013,1,1,0,0
+Cora,Viking,GCN,1015,1,1,0,0
+Cora,Viking,GCN,1042,1,1,0,0
+Cora,Viking,GCN,1050,1,1,0,0
+Cora,Viking,GCN,1072,2,2,0,0
+Cora,Viking,GCN,1103,1,1,0,0
+Cora,Viking,GCN,1119,1,1,0,0
+Cora,Viking,GCN,1131,1,1,0,0
+Cora,Viking,GCN,1154,1,1,0,0
+Cora,Viking,GCN,1169,1,1,0,0
+Cora,Viking,GCN,1171,1,1,0,0
+Cora,Viking,GCN,1224,1,1,0,0
+Cora,Viking,GCN,1229,1,1,0,0
+Cora,Viking,GCN,1257,2,2,0,0
+Cora,Viking,GCN,1309,1,1,0,0
+Cora,Viking,GCN,1317,1,1,0,0
+Cora,Viking,GCN,1351,1,1,0,0
+Cora,Viking,GCN,1358,1,1,0,0
+Cora,Viking,GCN,1367,32,26,-6,0
+Cora,Viking,GCN,1413,1,1,0,0
+Cora,Viking,GCN,1416,1,1,0,0
+Cora,Viking,GCN,1441,2,3,1,1
+Cora,Viking,GCN,1483,1,1,0,0
+Cora,Viking,GCN,1505,1,1,0,0
+Cora,Viking,GCN,1542,7,6,-1,0
+Cora,Viking,GCN,1583,3,4,1,1
+Cora,Viking,GCN,1602,1,1,0,0
+Cora,Viking,GCN,1623,1,1,0,0
+Cora,Viking,GCN,1624,1,1,0,0
+Cora,Viking,GCN,1628,1,1,0,0
+Cora,Viking,GCN,1655,1,1,0,0
+Cora,Viking,GCN,1682,1,1,0,0
+Cora,Viking,GCN,1692,1,1,0,0
+Cora,Viking,GCN,1701,1,1,0,0
+Cora,Viking,GCN,1702,7,6,-1,0
+Cora,Viking,GCN,1703,1,1,0,0
+Cora,Viking,GCN,1725,3,2,-1,0
+Cora,Viking,GCN,1740,1,1,0,0
+Cora,Viking,GCN,1742,1,1,0,0
+Cora,Viking,GCN,1765,1,1,0,0
+Cora,Viking,GCN,1776,1,1,0,0
+Cora,Viking,GCN,1810,1,1,0,0
+Cora,Viking,GCN,1842,1,1,0,0
+Cora,Viking,GCN,1869,1,3,2,1
+Cora,Viking,GCN,1894,9,6,-3,0
+Cora,Viking,GCN,1902,13,13,0,0
+Cora,Viking,GCN,1912,1,1,0,0
+Cora,Viking,GCN,1914,1,1,0,0
+Cora,Viking,GCN,1927,1,1,0,0
+Cora,Viking,GCN,1950,1,2,1,1
+Cora,Viking,GCN,1952,3,5,2,1
+Cora,Viking,GCN,1966,2,2,0,0
+Cora,Viking,GCN,1973,1,1,0,0
+Cora,Proposed Method,GCN,55,1,1,0,0
+Cora,Proposed Method,GCN,59,1,1,0,0
+Cora,Proposed Method,GCN,65,1,12,11,1
+Cora,Proposed Method,GCN,73,6,5,-1,0
+Cora,Proposed Method,GCN,88,1,1,0,0
+Cora,Proposed Method,GCN,89,2,12,10,1
+Cora,Proposed Method,GCN,94,3,5,2,1
+Cora,Proposed Method,GCN,95,1,1,0,0
+Cora,Proposed Method,GCN,109,3,4,1,1
+Cora,Proposed Method,GCN,118,1,1,0,0
+Cora,Proposed Method,GCN,154,2,5,3,1
+Cora,Proposed Method,GCN,180,1,3,2,1
+Cora,Proposed Method,GCN,210,1,2,1,1
+Cora,Proposed Method,GCN,218,1,1,0,0
+Cora,Proposed Method,GCN,236,1,8,7,1
+Cora,Proposed Method,GCN,239,1,2,1,1
+Cora,Proposed Method,GCN,279,1,1,0,0
+Cora,Proposed Method,GCN,306,1,1,0,0
+Cora,Proposed Method,GCN,310,1,3,2,1
+Cora,Proposed Method,GCN,316,2,6,4,1
+Cora,Proposed Method,GCN,350,1,5,4,1
+Cora,Proposed Method,GCN,364,1,2,1,1
+Cora,Proposed Method,GCN,415,2,3,1,1
+Cora,Proposed Method,GCN,429,1,1,0,0
+Cora,Proposed Method,GCN,436,1,1,0,0
+Cora,Proposed Method,GCN,441,45,15,-30,0
+Cora,Proposed Method,GCN,454,7,24,17,1
+Cora,Proposed Method,GCN,456,60,27,-33,0
+Cora,Proposed Method,GCN,487,1,5,4,1
+Cora,Proposed Method,GCN,505,1,1,0,0
+Cora,Proposed Method,GCN,507,3,3,0,0
+Cora,Proposed Method,GCN,519,1,11,10,1
+Cora,Proposed Method,GCN,525,1,1,0,0
+Cora,Proposed Method,GCN,565,1,6,5,1
+Cora,Proposed Method,GCN,577,17,19,2,1
+Cora,Proposed Method,GCN,598,1,1,0,0
+Cora,Proposed Method,GCN,645,1,1,0,0
+Cora,Proposed Method,GCN,657,29,93,64,1
+Cora,Proposed Method,GCN,661,1,2,1,1
+Cora,Proposed Method,GCN,687,1,4,3,1
+Cora,Proposed Method,GCN,733,7,7,0,0
+Cora,Proposed Method,GCN,734,54,26,-28,0
+Cora,Proposed Method,GCN,736,2,9,7,1
+Cora,Proposed Method,GCN,748,1,6,5,1
+Cora,Proposed Method,GCN,756,1,7,6,1
+Cora,Proposed Method,GCN,963,1,1,0,0
+Cora,Proposed Method,GCN,973,1,1,0,0
+Cora,Proposed Method,GCN,1013,1,1,0,0
+Cora,Proposed Method,GCN,1015,1,4,3,1
+Cora,Proposed Method,GCN,1042,1,1,0,0
+Cora,Proposed Method,GCN,1050,1,3,2,1
+Cora,Proposed Method,GCN,1072,2,2,0,0
+Cora,Proposed Method,GCN,1103,1,1,0,0
+Cora,Proposed Method,GCN,1119,1,3,2,1
+Cora,Proposed Method,GCN,1131,1,1,0,0
+Cora,Proposed Method,GCN,1154,1,2,1,1
+Cora,Proposed Method,GCN,1169,1,1,0,0
+Cora,Proposed Method,GCN,1171,1,2,1,1
+Cora,Proposed Method,GCN,1224,1,1,0,0
+Cora,Proposed Method,GCN,1229,1,2,1,1
+Cora,Proposed Method,GCN,1257,2,9,7,1
+Cora,Proposed Method,GCN,1309,1,1,0,0
+Cora,Proposed Method,GCN,1317,1,2,1,1
+Cora,Proposed Method,GCN,1351,1,3,2,1
+Cora,Proposed Method,GCN,1358,1,1,0,0
+Cora,Proposed Method,GCN,1367,32,25,-7,0
+Cora,Proposed Method,GCN,1413,1,1,0,0
+Cora,Proposed Method,GCN,1416,1,1,0,0
+Cora,Proposed Method,GCN,1441,2,3,1,1
+Cora,Proposed Method,GCN,1483,1,1,0,0
+Cora,Proposed Method,GCN,1505,1,1,0,0
+Cora,Proposed Method,GCN,1542,7,10,3,1
+Cora,Proposed Method,GCN,1583,3,3,0,0
+Cora,Proposed Method,GCN,1602,1,3,2,1
+Cora,Proposed Method,GCN,1623,1,1,0,0
+Cora,Proposed Method,GCN,1624,1,1,0,0
+Cora,Proposed Method,GCN,1628,1,5,4,1
+Cora,Proposed Method,GCN,1655,1,2,1,1
+Cora,Proposed Method,GCN,1682,1,8,7,1
+Cora,Proposed Method,GCN,1692,1,1,0,0
+Cora,Proposed Method,GCN,1701,1,1,0,0
+Cora,Proposed Method,GCN,1702,7,8,1,1
+Cora,Proposed Method,GCN,1703,1,1,0,0
+Cora,Proposed Method,GCN,1725,3,6,3,1
+Cora,Proposed Method,GCN,1740,1,1,0,0
+Cora,Proposed Method,GCN,1742,1,1,0,0
+Cora,Proposed Method,GCN,1765,1,3,2,1
+Cora,Proposed Method,GCN,1776,1,1,0,0
+Cora,Proposed Method,GCN,1810,1,1,0,0
+Cora,Proposed Method,GCN,1842,1,8,7,1
+Cora,Proposed Method,GCN,1869,1,4,3,1
+Cora,Proposed Method,GCN,1894,9,6,-3,0
+Cora,Proposed Method,GCN,1902,13,13,0,0
+Cora,Proposed Method,GCN,1912,1,1,0,0
+Cora,Proposed Method,GCN,1914,1,1,0,0
+Cora,Proposed Method,GCN,1927,1,1,0,0
+Cora,Proposed Method,GCN,1950,1,2,1,1
+Cora,Proposed Method,GCN,1952,3,4,1,1
+Cora,Proposed Method,GCN,1966,2,2,0,0
+Cora,Proposed Method,GCN,1973,1,3,2,1
+Cora,Degree,GraphSage,55,1,1,0,0
+Cora,Degree,GraphSage,59,1,1,0,0
+Cora,Degree,GraphSage,65,1,1,0,0
+Cora,Degree,GraphSage,73,5,2,-3,0
+Cora,Degree,GraphSage,88,1,1,0,0
+Cora,Degree,GraphSage,89,1,3,2,1
+Cora,Degree,GraphSage,94,3,3,0,0
+Cora,Degree,GraphSage,95,1,1,0,0
+Cora,Degree,GraphSage,109,2,4,2,1
+Cora,Degree,GraphSage,118,1,1,0,0
+Cora,Degree,GraphSage,154,4,5,1,1
+Cora,Degree,GraphSage,180,1,1,0,0
+Cora,Degree,GraphSage,210,1,1,0,0
+Cora,Degree,GraphSage,218,1,1,0,0
+Cora,Degree,GraphSage,236,1,1,0,0
+Cora,Degree,GraphSage,239,1,1,0,0
+Cora,Degree,GraphSage,279,1,1,0,0
+Cora,Degree,GraphSage,306,1,1,0,0
+Cora,Degree,GraphSage,310,1,1,0,0
+Cora,Degree,GraphSage,316,1,5,4,1
+Cora,Degree,GraphSage,350,1,1,0,0
+Cora,Degree,GraphSage,364,1,1,0,0
+Cora,Degree,GraphSage,415,2,2,0,0
+Cora,Degree,GraphSage,429,1,1,0,0
+Cora,Degree,GraphSage,436,1,1,0,0
+Cora,Degree,GraphSage,441,12,7,-5,0
+Cora,Degree,GraphSage,454,7,10,3,1
+Cora,Degree,GraphSage,456,15,12,-3,0
+Cora,Degree,GraphSage,487,1,1,0,0
+Cora,Degree,GraphSage,505,1,1,0,0
+Cora,Degree,GraphSage,507,3,5,2,1
+Cora,Degree,GraphSage,519,2,3,1,1
+Cora,Degree,GraphSage,525,1,1,0,0
+Cora,Degree,GraphSage,565,1,1,0,0
+Cora,Degree,GraphSage,577,16,18,2,1
+Cora,Degree,GraphSage,598,1,1,0,0
+Cora,Degree,GraphSage,645,1,1,0,0
+Cora,Degree,GraphSage,657,36,92,56,1
+Cora,Degree,GraphSage,661,1,1,0,0
+Cora,Degree,GraphSage,687,1,1,0,0
+Cora,Degree,GraphSage,733,2,1,-1,0
+Cora,Degree,GraphSage,734,36,33,-3,0
+Cora,Degree,GraphSage,736,3,6,3,1
+Cora,Degree,GraphSage,748,1,1,0,0
+Cora,Degree,GraphSage,756,1,6,5,1
+Cora,Degree,GraphSage,963,1,1,0,0
+Cora,Degree,GraphSage,973,1,1,0,0
+Cora,Degree,GraphSage,1013,1,1,0,0
+Cora,Degree,GraphSage,1015,10,18,8,1
+Cora,Degree,GraphSage,1042,1,1,0,0
+Cora,Degree,GraphSage,1050,1,3,2,1
+Cora,Degree,GraphSage,1072,1,2,1,1
+Cora,Degree,GraphSage,1103,1,1,0,0
+Cora,Degree,GraphSage,1119,3,3,0,0
+Cora,Degree,GraphSage,1131,1,1,0,0
+Cora,Degree,GraphSage,1154,1,1,0,0
+Cora,Degree,GraphSage,1169,1,1,0,0
+Cora,Degree,GraphSage,1171,1,1,0,0
+Cora,Degree,GraphSage,1224,1,1,0,0
+Cora,Degree,GraphSage,1229,1,3,2,1
+Cora,Degree,GraphSage,1257,1,3,2,1
+Cora,Degree,GraphSage,1309,1,1,0,0
+Cora,Degree,GraphSage,1317,1,1,0,0
+Cora,Degree,GraphSage,1351,1,1,0,0
+Cora,Degree,GraphSage,1358,1,1,0,0
+Cora,Degree,GraphSage,1367,5,5,0,0
+Cora,Degree,GraphSage,1413,1,2,1,1
+Cora,Degree,GraphSage,1416,1,1,0,0
+Cora,Degree,GraphSage,1441,3,4,1,1
+Cora,Degree,GraphSage,1483,1,1,0,0
+Cora,Degree,GraphSage,1505,1,1,0,0
+Cora,Degree,GraphSage,1542,2,4,2,1
+Cora,Degree,GraphSage,1583,1,1,0,0
+Cora,Degree,GraphSage,1602,1,1,0,0
+Cora,Degree,GraphSage,1623,1,1,0,0
+Cora,Degree,GraphSage,1624,1,1,0,0
+Cora,Degree,GraphSage,1628,1,2,1,1
+Cora,Degree,GraphSage,1655,1,1,0,0
+Cora,Degree,GraphSage,1682,1,2,1,1
+Cora,Degree,GraphSage,1692,1,1,0,0
+Cora,Degree,GraphSage,1701,1,1,0,0
+Cora,Degree,GraphSage,1702,3,9,6,1
+Cora,Degree,GraphSage,1703,1,1,0,0
+Cora,Degree,GraphSage,1725,3,3,0,0
+Cora,Degree,GraphSage,1740,1,1,0,0
+Cora,Degree,GraphSage,1742,1,1,0,0
+Cora,Degree,GraphSage,1765,1,1,0,0
+Cora,Degree,GraphSage,1776,1,1,0,0
+Cora,Degree,GraphSage,1810,1,1,0,0
+Cora,Degree,GraphSage,1842,1,1,0,0
+Cora,Degree,GraphSage,1869,1,1,0,0
+Cora,Degree,GraphSage,1894,3,3,0,0
+Cora,Degree,GraphSage,1902,13,11,-2,0
+Cora,Degree,GraphSage,1912,2,2,0,0
+Cora,Degree,GraphSage,1914,1,1,0,0
+Cora,Degree,GraphSage,1927,1,1,0,0
+Cora,Degree,GraphSage,1950,1,1,0,0
+Cora,Degree,GraphSage,1952,2,4,2,1
+Cora,Degree,GraphSage,1966,2,2,0,0
+Cora,Degree,GraphSage,1973,1,1,0,0
+Cora,Page Rank,GraphSage,55,1,1,0,0
+Cora,Page Rank,GraphSage,59,1,1,0,0
+Cora,Page Rank,GraphSage,65,1,1,0,0
+Cora,Page Rank,GraphSage,73,5,5,0,0
+Cora,Page Rank,GraphSage,88,1,1,0,0
+Cora,Page Rank,GraphSage,89,1,5,4,1
+Cora,Page Rank,GraphSage,94,3,3,0,0
+Cora,Page Rank,GraphSage,95,1,1,0,0
+Cora,Page Rank,GraphSage,109,2,4,2,1
+Cora,Page Rank,GraphSage,118,1,1,0,0
+Cora,Page Rank,GraphSage,154,4,4,0,0
+Cora,Page Rank,GraphSage,180,1,1,0,0
+Cora,Page Rank,GraphSage,210,1,1,0,0
+Cora,Page Rank,GraphSage,218,1,1,0,0
+Cora,Page Rank,GraphSage,236,1,1,0,0
+Cora,Page Rank,GraphSage,239,1,1,0,0
+Cora,Page Rank,GraphSage,279,1,1,0,0
+Cora,Page Rank,GraphSage,306,1,1,0,0
+Cora,Page Rank,GraphSage,310,1,2,1,1
+Cora,Page Rank,GraphSage,316,1,2,1,1
+Cora,Page Rank,GraphSage,350,1,1,0,0
+Cora,Page Rank,GraphSage,364,1,1,0,0
+Cora,Page Rank,GraphSage,415,2,2,0,0
+Cora,Page Rank,GraphSage,429,1,1,0,0
+Cora,Page Rank,GraphSage,436,1,1,0,0
+Cora,Page Rank,GraphSage,441,12,8,-4,0
+Cora,Page Rank,GraphSage,454,7,10,3,1
+Cora,Page Rank,GraphSage,456,15,14,-1,0
+Cora,Page Rank,GraphSage,487,1,1,0,0
+Cora,Page Rank,GraphSage,505,1,1,0,0
+Cora,Page Rank,GraphSage,507,3,3,0,0
+Cora,Page Rank,GraphSage,519,2,2,0,0
+Cora,Page Rank,GraphSage,525,1,1,0,0
+Cora,Page Rank,GraphSage,565,1,1,0,0
+Cora,Page Rank,GraphSage,577,16,18,2,1
+Cora,Page Rank,GraphSage,598,1,1,0,0
+Cora,Page Rank,GraphSage,645,1,1,0,0
+Cora,Page Rank,GraphSage,657,36,68,32,1
+Cora,Page Rank,GraphSage,661,1,1,0,0
+Cora,Page Rank,GraphSage,687,1,1,0,0
+Cora,Page Rank,GraphSage,733,2,1,-1,0
+Cora,Page Rank,GraphSage,734,36,35,-1,0
+Cora,Page Rank,GraphSage,736,3,3,0,0
+Cora,Page Rank,GraphSage,748,1,1,0,0
+Cora,Page Rank,GraphSage,756,1,6,5,1
+Cora,Page Rank,GraphSage,963,1,1,0,0
+Cora,Page Rank,GraphSage,973,1,1,0,0
+Cora,Page Rank,GraphSage,1013,1,1,0,0
+Cora,Page Rank,GraphSage,1015,10,22,12,1
+Cora,Page Rank,GraphSage,1042,1,1,0,0
+Cora,Page Rank,GraphSage,1050,1,1,0,0
+Cora,Page Rank,GraphSage,1072,1,2,1,1
+Cora,Page Rank,GraphSage,1103,1,1,0,0
+Cora,Page Rank,GraphSage,1119,3,1,-2,0
+Cora,Page Rank,GraphSage,1131,1,1,0,0
+Cora,Page Rank,GraphSage,1154,1,1,0,0
+Cora,Page Rank,GraphSage,1169,1,1,0,0
+Cora,Page Rank,GraphSage,1171,1,1,0,0
+Cora,Page Rank,GraphSage,1224,1,1,0,0
+Cora,Page Rank,GraphSage,1229,1,1,0,0
+Cora,Page Rank,GraphSage,1257,1,3,2,1
+Cora,Page Rank,GraphSage,1309,1,1,0,0
+Cora,Page Rank,GraphSage,1317,1,1,0,0
+Cora,Page Rank,GraphSage,1351,1,1,0,0
+Cora,Page Rank,GraphSage,1358,1,1,0,0
+Cora,Page Rank,GraphSage,1367,5,5,0,0
+Cora,Page Rank,GraphSage,1413,1,2,1,1
+Cora,Page Rank,GraphSage,1416,1,1,0,0
+Cora,Page Rank,GraphSage,1441,3,4,1,1
+Cora,Page Rank,GraphSage,1483,1,1,0,0
+Cora,Page Rank,GraphSage,1505,1,1,0,0
+Cora,Page Rank,GraphSage,1542,2,6,4,1
+Cora,Page Rank,GraphSage,1583,1,1,0,0
+Cora,Page Rank,GraphSage,1602,1,1,0,0
+Cora,Page Rank,GraphSage,1623,1,1,0,0
+Cora,Page Rank,GraphSage,1624,1,1,0,0
+Cora,Page Rank,GraphSage,1628,1,1,0,0
+Cora,Page Rank,GraphSage,1655,1,1,0,0
+Cora,Page Rank,GraphSage,1682,1,2,1,1
+Cora,Page Rank,GraphSage,1692,1,1,0,0
+Cora,Page Rank,GraphSage,1701,1,1,0,0
+Cora,Page Rank,GraphSage,1702,3,8,5,1
+Cora,Page Rank,GraphSage,1703,1,2,1,1
+Cora,Page Rank,GraphSage,1725,3,3,0,0
+Cora,Page Rank,GraphSage,1740,1,1,0,0
+Cora,Page Rank,GraphSage,1742,1,1,0,0
+Cora,Page Rank,GraphSage,1765,1,1,0,0
+Cora,Page Rank,GraphSage,1776,1,1,0,0
+Cora,Page Rank,GraphSage,1810,1,1,0,0
+Cora,Page Rank,GraphSage,1842,1,3,2,1
+Cora,Page Rank,GraphSage,1869,1,3,2,1
+Cora,Page Rank,GraphSage,1894,3,3,0,0
+Cora,Page Rank,GraphSage,1902,13,12,-1,0
+Cora,Page Rank,GraphSage,1912,2,2,0,0
+Cora,Page Rank,GraphSage,1914,1,1,0,0
+Cora,Page Rank,GraphSage,1927,1,1,0,0
+Cora,Page Rank,GraphSage,1950,1,1,0,0
+Cora,Page Rank,GraphSage,1952,2,4,2,1
+Cora,Page Rank,GraphSage,1966,2,2,0,0
+Cora,Page Rank,GraphSage,1973,1,1,0,0
+Cora,Viking,GraphSage,55,1,1,0,0
+Cora,Viking,GraphSage,59,1,1,0,0
+Cora,Viking,GraphSage,65,1,1,0,0
+Cora,Viking,GraphSage,73,5,5,0,0
+Cora,Viking,GraphSage,88,1,1,0,0
+Cora,Viking,GraphSage,89,1,3,2,1
+Cora,Viking,GraphSage,94,3,3,0,0
+Cora,Viking,GraphSage,95,1,1,0,0
+Cora,Viking,GraphSage,109,2,2,0,0
+Cora,Viking,GraphSage,118,1,1,0,0
+Cora,Viking,GraphSage,154,4,4,0,0
+Cora,Viking,GraphSage,180,1,1,0,0
+Cora,Viking,GraphSage,210,1,1,0,0
+Cora,Viking,GraphSage,218,1,1,0,0
+Cora,Viking,GraphSage,236,1,1,0,0
+Cora,Viking,GraphSage,239,1,1,0,0
+Cora,Viking,GraphSage,279,1,1,0,0
+Cora,Viking,GraphSage,306,1,1,0,0
+Cora,Viking,GraphSage,310,1,1,0,0
+Cora,Viking,GraphSage,316,1,1,0,0
+Cora,Viking,GraphSage,350,1,1,0,0
+Cora,Viking,GraphSage,364,1,1,0,0
+Cora,Viking,GraphSage,415,2,2,0,0
+Cora,Viking,GraphSage,429,1,1,0,0
+Cora,Viking,GraphSage,436,1,1,0,0
+Cora,Viking,GraphSage,441,12,23,11,1
+Cora,Viking,GraphSage,454,7,7,0,0
+Cora,Viking,GraphSage,456,15,11,-4,0
+Cora,Viking,GraphSage,487,1,1,0,0
+Cora,Viking,GraphSage,505,1,1,0,0
+Cora,Viking,GraphSage,507,3,3,0,0
+Cora,Viking,GraphSage,519,2,2,0,0
+Cora,Viking,GraphSage,525,1,1,0,0
+Cora,Viking,GraphSage,565,1,1,0,0
+Cora,Viking,GraphSage,577,16,16,0,0
+Cora,Viking,GraphSage,598,1,1,0,0
+Cora,Viking,GraphSage,645,1,1,0,0
+Cora,Viking,GraphSage,657,36,47,11,1
+Cora,Viking,GraphSage,661,1,1,0,0
+Cora,Viking,GraphSage,687,1,1,0,0
+Cora,Viking,GraphSage,733,2,2,0,0
+Cora,Viking,GraphSage,734,36,38,2,1
+Cora,Viking,GraphSage,736,3,2,-1,0
+Cora,Viking,GraphSage,748,1,1,0,0
+Cora,Viking,GraphSage,756,1,1,0,0
+Cora,Viking,GraphSage,963,1,1,0,0
+Cora,Viking,GraphSage,973,1,1,0,0
+Cora,Viking,GraphSage,1013,1,1,0,0
+Cora,Viking,GraphSage,1015,10,2,-8,0
+Cora,Viking,GraphSage,1042,1,1,0,0
+Cora,Viking,GraphSage,1050,1,1,0,0
+Cora,Viking,GraphSage,1072,1,2,1,1
+Cora,Viking,GraphSage,1103,1,1,0,0
+Cora,Viking,GraphSage,1119,3,4,1,1
+Cora,Viking,GraphSage,1131,1,1,0,0
+Cora,Viking,GraphSage,1154,1,1,0,0
+Cora,Viking,GraphSage,1169,1,1,0,0
+Cora,Viking,GraphSage,1171,1,1,0,0
+Cora,Viking,GraphSage,1224,1,1,0,0
+Cora,Viking,GraphSage,1229,1,1,0,0
+Cora,Viking,GraphSage,1257,1,1,0,0
+Cora,Viking,GraphSage,1309,1,1,0,0
+Cora,Viking,GraphSage,1317,1,1,0,0
+Cora,Viking,GraphSage,1351,1,1,0,0
+Cora,Viking,GraphSage,1358,1,1,0,0
+Cora,Viking,GraphSage,1367,5,5,0,0
+Cora,Viking,GraphSage,1413,1,1,0,0
+Cora,Viking,GraphSage,1416,1,1,0,0
+Cora,Viking,GraphSage,1441,3,3,0,0
+Cora,Viking,GraphSage,1483,1,1,0,0
+Cora,Viking,GraphSage,1505,1,1,0,0
+Cora,Viking,GraphSage,1542,2,2,0,0
+Cora,Viking,GraphSage,1583,1,1,0,0
+Cora,Viking,GraphSage,1602,1,1,0,0
+Cora,Viking,GraphSage,1623,1,1,0,0
+Cora,Viking,GraphSage,1624,1,1,0,0
+Cora,Viking,GraphSage,1628,1,1,0,0
+Cora,Viking,GraphSage,1655,1,1,0,0
+Cora,Viking,GraphSage,1682,1,1,0,0
+Cora,Viking,GraphSage,1692,1,1,0,0
+Cora,Viking,GraphSage,1701,1,1,0,0
+Cora,Viking,GraphSage,1702,3,2,-1,0
+Cora,Viking,GraphSage,1703,1,1,0,0
+Cora,Viking,GraphSage,1725,3,3,0,0
+Cora,Viking,GraphSage,1740,1,1,0,0
+Cora,Viking,GraphSage,1742,1,1,0,0
+Cora,Viking,GraphSage,1765,1,1,0,0
+Cora,Viking,GraphSage,1776,1,1,0,0
+Cora,Viking,GraphSage,1810,1,1,0,0
+Cora,Viking,GraphSage,1842,1,1,0,0
+Cora,Viking,GraphSage,1869,1,1,0,0
+Cora,Viking,GraphSage,1894,3,2,-1,0
+Cora,Viking,GraphSage,1902,13,13,0,0
+Cora,Viking,GraphSage,1912,2,3,1,1
+Cora,Viking,GraphSage,1914,1,1,0,0
+Cora,Viking,GraphSage,1927,1,1,0,0
+Cora,Viking,GraphSage,1950,1,1,0,0
+Cora,Viking,GraphSage,1952,2,4,2,1
+Cora,Viking,GraphSage,1966,2,2,0,0
+Cora,Viking,GraphSage,1973,1,1,0,0
+Cora,Proposed Method,GraphSage,55,1,1,0,0
+Cora,Proposed Method,GraphSage,59,1,2,1,1
+Cora,Proposed Method,GraphSage,65,1,9,8,1
+Cora,Proposed Method,GraphSage,73,5,1,-4,0
+Cora,Proposed Method,GraphSage,88,1,1,0,0
+Cora,Proposed Method,GraphSage,89,1,11,10,1
+Cora,Proposed Method,GraphSage,94,3,6,3,1
+Cora,Proposed Method,GraphSage,95,1,1,0,0
+Cora,Proposed Method,GraphSage,109,2,4,2,1
+Cora,Proposed Method,GraphSage,118,1,1,0,0
+Cora,Proposed Method,GraphSage,154,4,5,1,1
+Cora,Proposed Method,GraphSage,180,1,2,1,1
+Cora,Proposed Method,GraphSage,210,1,4,3,1
+Cora,Proposed Method,GraphSage,218,1,1,0,0
+Cora,Proposed Method,GraphSage,236,1,5,4,1
+Cora,Proposed Method,GraphSage,239,1,3,2,1
+Cora,Proposed Method,GraphSage,279,1,1,0,0
+Cora,Proposed Method,GraphSage,306,1,1,0,0
+Cora,Proposed Method,GraphSage,310,1,2,1,1
+Cora,Proposed Method,GraphSage,316,1,6,5,1
+Cora,Proposed Method,GraphSage,350,1,1,0,0
+Cora,Proposed Method,GraphSage,364,1,1,0,0
+Cora,Proposed Method,GraphSage,415,2,3,1,1
+Cora,Proposed Method,GraphSage,429,1,1,0,0
+Cora,Proposed Method,GraphSage,436,1,1,0,0
+Cora,Proposed Method,GraphSage,441,12,5,-7,0
+Cora,Proposed Method,GraphSage,454,7,40,33,1
+Cora,Proposed Method,GraphSage,456,15,14,-1,0
+Cora,Proposed Method,GraphSage,487,1,3,2,1
+Cora,Proposed Method,GraphSage,505,1,1,0,0
+Cora,Proposed Method,GraphSage,507,3,5,2,1
+Cora,Proposed Method,GraphSage,519,2,5,3,1
+Cora,Proposed Method,GraphSage,525,1,1,0,0
+Cora,Proposed Method,GraphSage,565,1,6,5,1
+Cora,Proposed Method,GraphSage,577,16,19,3,1
+Cora,Proposed Method,GraphSage,598,1,1,0,0
+Cora,Proposed Method,GraphSage,645,1,1,0,0
+Cora,Proposed Method,GraphSage,657,36,92,56,1
+Cora,Proposed Method,GraphSage,661,1,1,0,0
+Cora,Proposed Method,GraphSage,687,1,1,0,0
+Cora,Proposed Method,GraphSage,733,2,2,0,0
+Cora,Proposed Method,GraphSage,734,36,23,-13,0
+Cora,Proposed Method,GraphSage,736,3,6,3,1
+Cora,Proposed Method,GraphSage,748,1,6,5,1
+Cora,Proposed Method,GraphSage,756,1,6,5,1
+Cora,Proposed Method,GraphSage,963,1,1,0,0
+Cora,Proposed Method,GraphSage,973,1,1,0,0
+Cora,Proposed Method,GraphSage,1013,1,1,0,0
+Cora,Proposed Method,GraphSage,1015,10,6,-4,0
+Cora,Proposed Method,GraphSage,1042,1,1,0,0
+Cora,Proposed Method,GraphSage,1050,1,5,4,1
+Cora,Proposed Method,GraphSage,1072,1,2,1,1
+Cora,Proposed Method,GraphSage,1103,1,1,0,0
+Cora,Proposed Method,GraphSage,1119,3,4,1,1
+Cora,Proposed Method,GraphSage,1131,1,1,0,0
+Cora,Proposed Method,GraphSage,1154,1,2,1,1
+Cora,Proposed Method,GraphSage,1169,1,1,0,0
+Cora,Proposed Method,GraphSage,1171,1,1,0,0
+Cora,Proposed Method,GraphSage,1224,1,1,0,0
+Cora,Proposed Method,GraphSage,1229,1,4,3,1
+Cora,Proposed Method,GraphSage,1257,1,6,5,1
+Cora,Proposed Method,GraphSage,1309,1,1,0,0
+Cora,Proposed Method,GraphSage,1317,1,2,1,1
+Cora,Proposed Method,GraphSage,1351,1,5,4,1
+Cora,Proposed Method,GraphSage,1358,1,1,0,0
+Cora,Proposed Method,GraphSage,1367,5,5,0,0
+Cora,Proposed Method,GraphSage,1413,1,3,2,1
+Cora,Proposed Method,GraphSage,1416,1,1,0,0
+Cora,Proposed Method,GraphSage,1441,3,5,2,1
+Cora,Proposed Method,GraphSage,1483,1,1,0,0
+Cora,Proposed Method,GraphSage,1505,1,1,0,0
+Cora,Proposed Method,GraphSage,1542,2,7,5,1
+Cora,Proposed Method,GraphSage,1583,1,1,0,0
+Cora,Proposed Method,GraphSage,1602,1,1,0,0
+Cora,Proposed Method,GraphSage,1623,1,1,0,0
+Cora,Proposed Method,GraphSage,1624,1,1,0,0
+Cora,Proposed Method,GraphSage,1628,1,4,3,1
+Cora,Proposed Method,GraphSage,1655,1,1,0,0
+Cora,Proposed Method,GraphSage,1682,1,7,6,1
+Cora,Proposed Method,GraphSage,1692,1,1,0,0
+Cora,Proposed Method,GraphSage,1701,1,1,0,0
+Cora,Proposed Method,GraphSage,1702,3,11,8,1
+Cora,Proposed Method,GraphSage,1703,1,1,0,0
+Cora,Proposed Method,GraphSage,1725,3,3,0,0
+Cora,Proposed Method,GraphSage,1740,1,2,1,1
+Cora,Proposed Method,GraphSage,1742,1,1,0,0
+Cora,Proposed Method,GraphSage,1765,1,4,3,1
+Cora,Proposed Method,GraphSage,1776,1,1,0,0
+Cora,Proposed Method,GraphSage,1810,1,1,0,0
+Cora,Proposed Method,GraphSage,1842,1,3,2,1
+Cora,Proposed Method,GraphSage,1869,1,3,2,1
+Cora,Proposed Method,GraphSage,1894,3,2,-1,0
+Cora,Proposed Method,GraphSage,1902,13,14,1,1
+Cora,Proposed Method,GraphSage,1912,2,1,-1,0
+Cora,Proposed Method,GraphSage,1914,1,1,0,0
+Cora,Proposed Method,GraphSage,1927,1,1,0,0
+Cora,Proposed Method,GraphSage,1950,1,1,0,0
+Cora,Proposed Method,GraphSage,1952,2,4,2,1
+Cora,Proposed Method,GraphSage,1966,2,2,0,0
+Cora,Proposed Method,GraphSage,1973,1,2,1,1
+CiteSeer,Degree,GCN,12,2,2,0,0
+CiteSeer,Degree,GCN,16,3,5,2,1
+CiteSeer,Degree,GCN,27,4,7,3,1
+CiteSeer,Degree,GCN,28,1,1,0,0
+CiteSeer,Degree,GCN,43,1,1,0,0
+CiteSeer,Degree,GCN,83,1,2,1,1
+CiteSeer,Degree,GCN,98,1,1,0,0
+CiteSeer,Degree,GCN,136,1,1,0,0
+CiteSeer,Degree,GCN,150,1,1,0,0
+CiteSeer,Degree,GCN,208,2,6,4,1
+CiteSeer,Degree,GCN,229,1,3,2,1
+CiteSeer,Degree,GCN,254,8,2,-6,0
+CiteSeer,Degree,GCN,303,1,2,1,1
+CiteSeer,Degree,GCN,307,6,9,3,1
+CiteSeer,Degree,GCN,314,1,5,4,1
+CiteSeer,Degree,GCN,450,2,2,0,0
+CiteSeer,Degree,GCN,453,1,1,0,0
+CiteSeer,Degree,GCN,468,6,6,0,0
+CiteSeer,Degree,GCN,486,2,4,2,1
+CiteSeer,Degree,GCN,540,1,3,2,1
+CiteSeer,Degree,GCN,541,1,1,0,0
+CiteSeer,Degree,GCN,582,1,1,0,0
+CiteSeer,Degree,GCN,616,1,3,2,1
+CiteSeer,Degree,GCN,622,5,6,1,1
+CiteSeer,Degree,GCN,624,1,1,0,0
+CiteSeer,Degree,GCN,637,3,4,1,1
+CiteSeer,Degree,GCN,661,1,2,1,1
+CiteSeer,Degree,GCN,667,2,5,3,1
+CiteSeer,Degree,GCN,670,1,1,0,0
+CiteSeer,Degree,GCN,755,1,1,0,0
+CiteSeer,Degree,GCN,847,5,6,1,1
+CiteSeer,Degree,GCN,886,5,4,-1,0
+CiteSeer,Degree,GCN,887,3,9,6,1
+CiteSeer,Degree,GCN,912,3,3,0,0
+CiteSeer,Degree,GCN,962,3,5,2,1
+CiteSeer,Degree,GCN,965,2,2,0,0
+CiteSeer,Degree,GCN,968,1,1,0,0
+CiteSeer,Degree,GCN,1012,1,8,7,1
+CiteSeer,Degree,GCN,1013,1,3,2,1
+CiteSeer,Degree,GCN,1034,2,4,2,1
+CiteSeer,Degree,GCN,1097,1,3,2,1
+CiteSeer,Degree,GCN,1112,1,2,1,1
+CiteSeer,Degree,GCN,1117,4,7,3,1
+CiteSeer,Degree,GCN,1130,2,2,0,0
+CiteSeer,Degree,GCN,1131,1,1,0,0
+CiteSeer,Degree,GCN,1180,3,1,-2,0
+CiteSeer,Degree,GCN,1214,1,1,0,0
+CiteSeer,Degree,GCN,1251,3,15,12,1
+CiteSeer,Degree,GCN,1366,2,2,0,0
+CiteSeer,Degree,GCN,1410,1,3,2,1
+CiteSeer,Degree,GCN,1422,1,1,0,0
+CiteSeer,Degree,GCN,1429,1,1,0,0
+CiteSeer,Degree,GCN,1567,1,1,0,0
+CiteSeer,Degree,GCN,1585,1,4,3,1
+CiteSeer,Degree,GCN,1587,2,2,0,0
+CiteSeer,Degree,GCN,1605,1,2,1,1
+CiteSeer,Degree,GCN,1620,1,1,0,0
+CiteSeer,Degree,GCN,1625,1,1,0,0
+CiteSeer,Degree,GCN,1644,1,2,1,1
+CiteSeer,Degree,GCN,1666,1,3,2,1
+CiteSeer,Degree,GCN,1708,3,3,0,0
+CiteSeer,Degree,GCN,1822,1,1,0,0
+CiteSeer,Degree,GCN,1853,5,5,0,0
+CiteSeer,Degree,GCN,1875,1,1,0,0
+CiteSeer,Degree,GCN,1879,1,2,1,1
+CiteSeer,Degree,GCN,1894,1,3,2,1
+CiteSeer,Degree,GCN,1896,1,1,0,0
+CiteSeer,Degree,GCN,1943,1,1,0,0
+CiteSeer,Degree,GCN,1992,1,1,0,0
+CiteSeer,Degree,GCN,2023,1,1,0,0
+CiteSeer,Degree,GCN,2067,1,1,0,0
+CiteSeer,Degree,GCN,2166,4,5,1,1
+CiteSeer,Degree,GCN,2174,4,4,0,0
+CiteSeer,Degree,GCN,2189,2,4,2,1
+CiteSeer,Degree,GCN,2196,1,1,0,0
+CiteSeer,Degree,GCN,2217,1,1,0,0
+CiteSeer,Degree,GCN,2264,1,1,0,0
+CiteSeer,Degree,GCN,2316,1,1,0,0
+CiteSeer,Degree,GCN,2339,1,2,1,1
+CiteSeer,Degree,GCN,2361,1,1,0,0
+CiteSeer,Degree,GCN,2396,1,1,0,0
+CiteSeer,Degree,GCN,2398,1,5,4,1
+CiteSeer,Degree,GCN,2404,2,5,3,1
+CiteSeer,Degree,GCN,2416,2,2,0,0
+CiteSeer,Degree,GCN,2418,1,1,0,0
+CiteSeer,Degree,GCN,2427,4,4,0,0
+CiteSeer,Degree,GCN,2435,1,2,1,1
+CiteSeer,Degree,GCN,2447,1,5,4,1
+CiteSeer,Degree,GCN,2475,3,6,3,1
+CiteSeer,Degree,GCN,2506,1,6,5,1
+CiteSeer,Degree,GCN,2507,1,2,1,1
+CiteSeer,Degree,GCN,2519,1,1,0,0
+CiteSeer,Degree,GCN,2596,1,1,0,0
+CiteSeer,Degree,GCN,2597,3,3,0,0
+CiteSeer,Degree,GCN,2622,1,1,0,0
+CiteSeer,Degree,GCN,2633,2,2,0,0
+CiteSeer,Degree,GCN,2638,1,2,1,1
+CiteSeer,Degree,GCN,2646,1,1,0,0
+CiteSeer,Degree,GCN,2655,1,1,0,0
+CiteSeer,Degree,GCN,2703,5,6,1,1
+CiteSeer,Page Rank,GCN,12,2,2,0,0
+CiteSeer,Page Rank,GCN,16,3,5,2,1
+CiteSeer,Page Rank,GCN,27,4,4,0,0
+CiteSeer,Page Rank,GCN,28,1,1,0,0
+CiteSeer,Page Rank,GCN,43,1,1,0,0
+CiteSeer,Page Rank,GCN,83,1,2,1,1
+CiteSeer,Page Rank,GCN,98,1,1,0,0
+CiteSeer,Page Rank,GCN,136,1,1,0,0
+CiteSeer,Page Rank,GCN,150,1,1,0,0
+CiteSeer,Page Rank,GCN,208,2,6,4,1
+CiteSeer,Page Rank,GCN,229,1,1,0,0
+CiteSeer,Page Rank,GCN,254,8,2,-6,0
+CiteSeer,Page Rank,GCN,303,1,2,1,1
+CiteSeer,Page Rank,GCN,307,6,12,6,1
+CiteSeer,Page Rank,GCN,314,1,5,4,1
+CiteSeer,Page Rank,GCN,450,2,2,0,0
+CiteSeer,Page Rank,GCN,453,1,1,0,0
+CiteSeer,Page Rank,GCN,468,6,6,0,0
+CiteSeer,Page Rank,GCN,486,2,2,0,0
+CiteSeer,Page Rank,GCN,540,1,3,2,1
+CiteSeer,Page Rank,GCN,541,1,1,0,0
+CiteSeer,Page Rank,GCN,582,1,1,0,0
+CiteSeer,Page Rank,GCN,616,1,3,2,1
+CiteSeer,Page Rank,GCN,622,5,5,0,0
+CiteSeer,Page Rank,GCN,624,1,2,1,1
+CiteSeer,Page Rank,GCN,637,3,4,1,1
+CiteSeer,Page Rank,GCN,661,1,2,1,1
+CiteSeer,Page Rank,GCN,667,2,5,3,1
+CiteSeer,Page Rank,GCN,670,1,1,0,0
+CiteSeer,Page Rank,GCN,755,1,1,0,0
+CiteSeer,Page Rank,GCN,847,5,6,1,1
+CiteSeer,Page Rank,GCN,886,5,4,-1,0
+CiteSeer,Page Rank,GCN,887,3,3,0,0
+CiteSeer,Page Rank,GCN,912,3,3,0,0
+CiteSeer,Page Rank,GCN,962,3,5,2,1
+CiteSeer,Page Rank,GCN,965,2,2,0,0
+CiteSeer,Page Rank,GCN,968,1,1,0,0
+CiteSeer,Page Rank,GCN,1012,1,4,3,1
+CiteSeer,Page Rank,GCN,1013,1,1,0,0
+CiteSeer,Page Rank,GCN,1034,2,4,2,1
+CiteSeer,Page Rank,GCN,1097,1,1,0,0
+CiteSeer,Page Rank,GCN,1112,1,1,0,0
+CiteSeer,Page Rank,GCN,1117,4,5,1,1
+CiteSeer,Page Rank,GCN,1130,2,2,0,0
+CiteSeer,Page Rank,GCN,1131,1,1,0,0
+CiteSeer,Page Rank,GCN,1180,3,1,-2,0
+CiteSeer,Page Rank,GCN,1214,1,1,0,0
+CiteSeer,Page Rank,GCN,1251,3,3,0,0
+CiteSeer,Page Rank,GCN,1366,2,2,0,0
+CiteSeer,Page Rank,GCN,1410,1,4,3,1
+CiteSeer,Page Rank,GCN,1422,1,1,0,0
+CiteSeer,Page Rank,GCN,1429,1,1,0,0
+CiteSeer,Page Rank,GCN,1567,1,2,1,1
+CiteSeer,Page Rank,GCN,1585,1,1,0,0
+CiteSeer,Page Rank,GCN,1587,2,2,0,0
+CiteSeer,Page Rank,GCN,1605,1,1,0,0
+CiteSeer,Page Rank,GCN,1620,1,1,0,0
+CiteSeer,Page Rank,GCN,1625,1,2,1,1
+CiteSeer,Page Rank,GCN,1644,1,2,1,1
+CiteSeer,Page Rank,GCN,1666,1,1,0,0
+CiteSeer,Page Rank,GCN,1708,3,3,0,0
+CiteSeer,Page Rank,GCN,1822,1,1,0,0
+CiteSeer,Page Rank,GCN,1853,5,10,5,1
+CiteSeer,Page Rank,GCN,1875,1,1,0,0
+CiteSeer,Page Rank,GCN,1879,1,2,1,1
+CiteSeer,Page Rank,GCN,1894,1,4,3,1
+CiteSeer,Page Rank,GCN,1896,1,1,0,0
+CiteSeer,Page Rank,GCN,1943,1,1,0,0
+CiteSeer,Page Rank,GCN,1992,1,1,0,0
+CiteSeer,Page Rank,GCN,2023,1,1,0,0
+CiteSeer,Page Rank,GCN,2067,1,4,3,1
+CiteSeer,Page Rank,GCN,2166,4,8,4,1
+CiteSeer,Page Rank,GCN,2174,4,4,0,0
+CiteSeer,Page Rank,GCN,2189,2,4,2,1
+CiteSeer,Page Rank,GCN,2196,1,1,0,0
+CiteSeer,Page Rank,GCN,2217,1,1,0,0
+CiteSeer,Page Rank,GCN,2264,1,1,0,0
+CiteSeer,Page Rank,GCN,2316,1,1,0,0
+CiteSeer,Page Rank,GCN,2339,1,2,1,1
+CiteSeer,Page Rank,GCN,2361,1,1,0,0
+CiteSeer,Page Rank,GCN,2396,1,1,0,0
+CiteSeer,Page Rank,GCN,2398,1,5,4,1
+CiteSeer,Page Rank,GCN,2404,2,2,0,0
+CiteSeer,Page Rank,GCN,2416,2,2,0,0
+CiteSeer,Page Rank,GCN,2418,1,1,0,0
+CiteSeer,Page Rank,GCN,2427,4,3,-1,0
+CiteSeer,Page Rank,GCN,2435,1,1,0,0
+CiteSeer,Page Rank,GCN,2447,1,3,2,1
+CiteSeer,Page Rank,GCN,2475,3,6,3,1
+CiteSeer,Page Rank,GCN,2506,1,7,6,1
+CiteSeer,Page Rank,GCN,2507,1,1,0,0
+CiteSeer,Page Rank,GCN,2519,1,1,0,0
+CiteSeer,Page Rank,GCN,2596,1,1,0,0
+CiteSeer,Page Rank,GCN,2597,3,3,0,0
+CiteSeer,Page Rank,GCN,2622,1,2,1,1
+CiteSeer,Page Rank,GCN,2633,2,2,0,0
+CiteSeer,Page Rank,GCN,2638,1,2,1,1
+CiteSeer,Page Rank,GCN,2646,1,1,0,0
+CiteSeer,Page Rank,GCN,2655,1,1,0,0
+CiteSeer,Page Rank,GCN,2703,5,5,0,0
+CiteSeer,Viking,GCN,12,2,2,0,0
+CiteSeer,Viking,GCN,16,3,2,-1,0
+CiteSeer,Viking,GCN,27,4,2,-2,0
+CiteSeer,Viking,GCN,28,1,1,0,0
+CiteSeer,Viking,GCN,43,1,1,0,0
+CiteSeer,Viking,GCN,83,1,1,0,0
+CiteSeer,Viking,GCN,98,1,1,0,0
+CiteSeer,Viking,GCN,136,1,1,0,0
+CiteSeer,Viking,GCN,150,1,2,1,1
+CiteSeer,Viking,GCN,208,2,3,1,1
+CiteSeer,Viking,GCN,229,1,1,0,0
+CiteSeer,Viking,GCN,254,8,14,6,1
+CiteSeer,Viking,GCN,303,1,2,1,1
+CiteSeer,Viking,GCN,307,6,1,-5,0
+CiteSeer,Viking,GCN,314,1,6,5,1
+CiteSeer,Viking,GCN,450,2,1,-1,0
+CiteSeer,Viking,GCN,453,1,1,0,0
+CiteSeer,Viking,GCN,468,6,6,0,0
+CiteSeer,Viking,GCN,486,2,1,-1,0
+CiteSeer,Viking,GCN,540,1,3,2,1
+CiteSeer,Viking,GCN,541,1,1,0,0
+CiteSeer,Viking,GCN,582,1,1,0,0
+CiteSeer,Viking,GCN,616,1,1,0,0
+CiteSeer,Viking,GCN,622,5,4,-1,0
+CiteSeer,Viking,GCN,624,1,1,0,0
+CiteSeer,Viking,GCN,637,3,3,0,0
+CiteSeer,Viking,GCN,661,1,2,1,1
+CiteSeer,Viking,GCN,667,2,5,3,1
+CiteSeer,Viking,GCN,670,1,1,0,0
+CiteSeer,Viking,GCN,755,1,1,0,0
+CiteSeer,Viking,GCN,847,5,7,2,1
+CiteSeer,Viking,GCN,886,5,5,0,0
+CiteSeer,Viking,GCN,887,3,2,-1,0
+CiteSeer,Viking,GCN,912,3,3,0,0
+CiteSeer,Viking,GCN,962,3,5,2,1
+CiteSeer,Viking,GCN,965,2,1,-1,0
+CiteSeer,Viking,GCN,968,1,1,0,0
+CiteSeer,Viking,GCN,1012,1,2,1,1
+CiteSeer,Viking,GCN,1013,1,3,2,1
+CiteSeer,Viking,GCN,1034,2,2,0,0
+CiteSeer,Viking,GCN,1097,1,1,0,0
+CiteSeer,Viking,GCN,1112,1,1,0,0
+CiteSeer,Viking,GCN,1117,4,6,2,1
+CiteSeer,Viking,GCN,1130,2,2,0,0
+CiteSeer,Viking,GCN,1131,1,1,0,0
+CiteSeer,Viking,GCN,1180,3,6,3,1
+CiteSeer,Viking,GCN,1214,1,1,0,0
+CiteSeer,Viking,GCN,1251,3,3,0,0
+CiteSeer,Viking,GCN,1366,2,2,0,0
+CiteSeer,Viking,GCN,1410,1,4,3,1
+CiteSeer,Viking,GCN,1422,1,1,0,0
+CiteSeer,Viking,GCN,1429,1,1,0,0
+CiteSeer,Viking,GCN,1567,1,1,0,0
+CiteSeer,Viking,GCN,1585,1,5,4,1
+CiteSeer,Viking,GCN,1587,2,3,1,1
+CiteSeer,Viking,GCN,1605,1,5,4,1
+CiteSeer,Viking,GCN,1620,1,1,0,0
+CiteSeer,Viking,GCN,1625,1,1,0,0
+CiteSeer,Viking,GCN,1644,1,1,0,0
+CiteSeer,Viking,GCN,1666,1,2,1,1
+CiteSeer,Viking,GCN,1708,3,3,0,0
+CiteSeer,Viking,GCN,1822,1,1,0,0
+CiteSeer,Viking,GCN,1853,5,6,1,1
+CiteSeer,Viking,GCN,1875,1,1,0,0
+CiteSeer,Viking,GCN,1879,1,2,1,1
+CiteSeer,Viking,GCN,1894,1,1,0,0
+CiteSeer,Viking,GCN,1896,1,1,0,0
+CiteSeer,Viking,GCN,1943,1,1,0,0
+CiteSeer,Viking,GCN,1992,1,1,0,0
+CiteSeer,Viking,GCN,2023,1,1,0,0
+CiteSeer,Viking,GCN,2067,1,1,0,0
+CiteSeer,Viking,GCN,2166,4,4,0,0
+CiteSeer,Viking,GCN,2174,4,4,0,0
+CiteSeer,Viking,GCN,2189,2,3,1,1
+CiteSeer,Viking,GCN,2196,1,1,0,0
+CiteSeer,Viking,GCN,2217,1,1,0,0
+CiteSeer,Viking,GCN,2264,1,1,0,0
+CiteSeer,Viking,GCN,2316,1,1,0,0
+CiteSeer,Viking,GCN,2339,1,2,1,1
+CiteSeer,Viking,GCN,2361,1,1,0,0
+CiteSeer,Viking,GCN,2396,1,1,0,0
+CiteSeer,Viking,GCN,2398,1,4,3,1
+CiteSeer,Viking,GCN,2404,2,3,1,1
+CiteSeer,Viking,GCN,2416,2,2,0,0
+CiteSeer,Viking,GCN,2418,1,1,0,0
+CiteSeer,Viking,GCN,2427,4,4,0,0
+CiteSeer,Viking,GCN,2435,1,1,0,0
+CiteSeer,Viking,GCN,2447,1,1,0,0
+CiteSeer,Viking,GCN,2475,3,3,0,0
+CiteSeer,Viking,GCN,2506,1,1,0,0
+CiteSeer,Viking,GCN,2507,1,1,0,0
+CiteSeer,Viking,GCN,2519,1,1,0,0
+CiteSeer,Viking,GCN,2596,1,1,0,0
+CiteSeer,Viking,GCN,2597,3,3,0,0
+CiteSeer,Viking,GCN,2622,1,1,0,0
+CiteSeer,Viking,GCN,2633,2,1,-1,0
+CiteSeer,Viking,GCN,2638,1,2,1,1
+CiteSeer,Viking,GCN,2646,1,1,0,0
+CiteSeer,Viking,GCN,2655,1,1,0,0
+CiteSeer,Viking,GCN,2703,5,2,-3,0
+CiteSeer,Proposed Method,GCN,12,2,2,0,0
+CiteSeer,Proposed Method,GCN,16,3,5,2,1
+CiteSeer,Proposed Method,GCN,27,4,10,6,1
+CiteSeer,Proposed Method,GCN,28,1,2,1,1
+CiteSeer,Proposed Method,GCN,43,1,1,0,0
+CiteSeer,Proposed Method,GCN,83,1,3,2,1
+CiteSeer,Proposed Method,GCN,98,1,2,1,1
+CiteSeer,Proposed Method,GCN,136,1,1,0,0
+CiteSeer,Proposed Method,GCN,150,1,2,1,1
+CiteSeer,Proposed Method,GCN,208,2,10,8,1
+CiteSeer,Proposed Method,GCN,229,1,6,5,1
+CiteSeer,Proposed Method,GCN,254,8,2,-6,0
+CiteSeer,Proposed Method,GCN,303,1,2,1,1
+CiteSeer,Proposed Method,GCN,307,6,12,6,1
+CiteSeer,Proposed Method,GCN,314,1,5,4,1
+CiteSeer,Proposed Method,GCN,450,2,2,0,0
+CiteSeer,Proposed Method,GCN,453,1,1,0,0
+CiteSeer,Proposed Method,GCN,468,6,6,0,0
+CiteSeer,Proposed Method,GCN,486,2,7,5,1
+CiteSeer,Proposed Method,GCN,540,1,4,3,1
+CiteSeer,Proposed Method,GCN,541,1,1,0,0
+CiteSeer,Proposed Method,GCN,582,1,1,0,0
+CiteSeer,Proposed Method,GCN,616,1,3,2,1
+CiteSeer,Proposed Method,GCN,622,5,7,2,1
+CiteSeer,Proposed Method,GCN,624,1,4,3,1
+CiteSeer,Proposed Method,GCN,637,3,3,0,0
+CiteSeer,Proposed Method,GCN,661,1,5,4,1
+CiteSeer,Proposed Method,GCN,667,2,8,6,1
+CiteSeer,Proposed Method,GCN,670,1,2,1,1
+CiteSeer,Proposed Method,GCN,755,1,1,0,0
+CiteSeer,Proposed Method,GCN,847,5,21,16,1
+CiteSeer,Proposed Method,GCN,886,5,1,-4,0
+CiteSeer,Proposed Method,GCN,887,3,10,7,1
+CiteSeer,Proposed Method,GCN,912,3,3,0,0
+CiteSeer,Proposed Method,GCN,962,3,6,3,1
+CiteSeer,Proposed Method,GCN,965,2,3,1,1
+CiteSeer,Proposed Method,GCN,968,1,1,0,0
+CiteSeer,Proposed Method,GCN,1012,1,10,9,1
+CiteSeer,Proposed Method,GCN,1013,1,9,8,1
+CiteSeer,Proposed Method,GCN,1034,2,5,3,1
+CiteSeer,Proposed Method,GCN,1097,1,3,2,1
+CiteSeer,Proposed Method,GCN,1112,1,3,2,1
+CiteSeer,Proposed Method,GCN,1117,4,10,6,1
+CiteSeer,Proposed Method,GCN,1130,2,2,0,0
+CiteSeer,Proposed Method,GCN,1131,1,5,4,1
+CiteSeer,Proposed Method,GCN,1180,3,4,1,1
+CiteSeer,Proposed Method,GCN,1214,1,1,0,0
+CiteSeer,Proposed Method,GCN,1251,3,15,12,1
+CiteSeer,Proposed Method,GCN,1366,2,4,2,1
+CiteSeer,Proposed Method,GCN,1410,1,3,2,1
+CiteSeer,Proposed Method,GCN,1422,1,1,0,0
+CiteSeer,Proposed Method,GCN,1429,1,1,0,0
+CiteSeer,Proposed Method,GCN,1567,1,2,1,1
+CiteSeer,Proposed Method,GCN,1585,1,6,5,1
+CiteSeer,Proposed Method,GCN,1587,2,3,1,1
+CiteSeer,Proposed Method,GCN,1605,1,3,2,1
+CiteSeer,Proposed Method,GCN,1620,1,1,0,0
+CiteSeer,Proposed Method,GCN,1625,1,2,1,1
+CiteSeer,Proposed Method,GCN,1644,1,2,1,1
+CiteSeer,Proposed Method,GCN,1666,1,3,2,1
+CiteSeer,Proposed Method,GCN,1708,3,6,3,1
+CiteSeer,Proposed Method,GCN,1822,1,2,1,1
+CiteSeer,Proposed Method,GCN,1853,5,9,4,1
+CiteSeer,Proposed Method,GCN,1875,1,2,1,1
+CiteSeer,Proposed Method,GCN,1879,1,2,1,1
+CiteSeer,Proposed Method,GCN,1894,1,5,4,1
+CiteSeer,Proposed Method,GCN,1896,1,5,4,1
+CiteSeer,Proposed Method,GCN,1943,1,1,0,0
+CiteSeer,Proposed Method,GCN,1992,1,4,3,1
+CiteSeer,Proposed Method,GCN,2023,1,7,6,1
+CiteSeer,Proposed Method,GCN,2067,1,6,5,1
+CiteSeer,Proposed Method,GCN,2166,4,5,1,1
+CiteSeer,Proposed Method,GCN,2174,4,3,-1,0
+CiteSeer,Proposed Method,GCN,2189,2,6,4,1
+CiteSeer,Proposed Method,GCN,2196,1,3,2,1
+CiteSeer,Proposed Method,GCN,2217,1,1,0,0
+CiteSeer,Proposed Method,GCN,2264,1,1,0,0
+CiteSeer,Proposed Method,GCN,2316,1,3,2,1
+CiteSeer,Proposed Method,GCN,2339,1,2,1,1
+CiteSeer,Proposed Method,GCN,2361,1,5,4,1
+CiteSeer,Proposed Method,GCN,2396,1,10,9,1
+CiteSeer,Proposed Method,GCN,2398,1,7,6,1
+CiteSeer,Proposed Method,GCN,2404,2,13,11,1
+CiteSeer,Proposed Method,GCN,2416,2,1,-1,0
+CiteSeer,Proposed Method,GCN,2418,1,1,0,0
+CiteSeer,Proposed Method,GCN,2427,4,2,-2,0
+CiteSeer,Proposed Method,GCN,2435,1,5,4,1
+CiteSeer,Proposed Method,GCN,2447,1,6,5,1
+CiteSeer,Proposed Method,GCN,2475,3,7,4,1
+CiteSeer,Proposed Method,GCN,2506,1,1,0,0
+CiteSeer,Proposed Method,GCN,2507,1,2,1,1
+CiteSeer,Proposed Method,GCN,2519,1,3,2,1
+CiteSeer,Proposed Method,GCN,2596,1,12,11,1
+CiteSeer,Proposed Method,GCN,2597,3,9,6,1
+CiteSeer,Proposed Method,GCN,2622,1,5,4,1
+CiteSeer,Proposed Method,GCN,2633,2,10,8,1
+CiteSeer,Proposed Method,GCN,2638,1,6,5,1
+CiteSeer,Proposed Method,GCN,2646,1,1,0,0
+CiteSeer,Proposed Method,GCN,2655,1,5,4,1
+CiteSeer,Proposed Method,GCN,2703,5,9,4,1
+CiteSeer,Degree,GraphSage,12,2,2,0,0
+CiteSeer,Degree,GraphSage,16,3,5,2,1
+CiteSeer,Degree,GraphSage,27,3,6,3,1
+CiteSeer,Degree,GraphSage,28,1,1,0,0
+CiteSeer,Degree,GraphSage,43,1,1,0,0
+CiteSeer,Degree,GraphSage,83,1,2,1,1
+CiteSeer,Degree,GraphSage,98,1,1,0,0
+CiteSeer,Degree,GraphSage,136,1,1,0,0
+CiteSeer,Degree,GraphSage,150,1,1,0,0
+CiteSeer,Degree,GraphSage,208,4,8,4,1
+CiteSeer,Degree,GraphSage,229,1,2,1,1
+CiteSeer,Degree,GraphSage,254,5,1,-4,0
+CiteSeer,Degree,GraphSage,303,2,2,0,0
+CiteSeer,Degree,GraphSage,307,3,9,6,1
+CiteSeer,Degree,GraphSage,314,2,4,2,1
+CiteSeer,Degree,GraphSage,450,3,3,0,0
+CiteSeer,Degree,GraphSage,453,1,1,0,0
+CiteSeer,Degree,GraphSage,468,2,7,5,1
+CiteSeer,Degree,GraphSage,486,1,1,0,0
+CiteSeer,Degree,GraphSage,540,1,2,1,1
+CiteSeer,Degree,GraphSage,541,1,1,0,0
+CiteSeer,Degree,GraphSage,582,1,1,0,0
+CiteSeer,Degree,GraphSage,616,1,6,5,1
+CiteSeer,Degree,GraphSage,622,5,6,1,1
+CiteSeer,Degree,GraphSage,624,2,1,-1,0
+CiteSeer,Degree,GraphSage,637,3,4,1,1
+CiteSeer,Degree,GraphSage,661,1,5,4,1
+CiteSeer,Degree,GraphSage,667,5,6,1,1
+CiteSeer,Degree,GraphSage,670,1,1,0,0
+CiteSeer,Degree,GraphSage,755,1,1,0,0
+CiteSeer,Degree,GraphSage,847,4,4,0,0
+CiteSeer,Degree,GraphSage,886,5,5,0,0
+CiteSeer,Degree,GraphSage,887,3,8,5,1
+CiteSeer,Degree,GraphSage,912,3,3,0,0
+CiteSeer,Degree,GraphSage,962,2,4,2,1
+CiteSeer,Degree,GraphSage,965,1,2,1,1
+CiteSeer,Degree,GraphSage,968,1,1,0,0
+CiteSeer,Degree,GraphSage,1012,1,3,2,1
+CiteSeer,Degree,GraphSage,1013,1,4,3,1
+CiteSeer,Degree,GraphSage,1034,3,4,1,1
+CiteSeer,Degree,GraphSage,1097,1,3,2,1
+CiteSeer,Degree,GraphSage,1112,1,1,0,0
+CiteSeer,Degree,GraphSage,1117,5,7,2,1
+CiteSeer,Degree,GraphSage,1130,1,1,0,0
+CiteSeer,Degree,GraphSage,1131,1,1,0,0
+CiteSeer,Degree,GraphSage,1180,4,4,0,0
+CiteSeer,Degree,GraphSage,1214,1,1,0,0
+CiteSeer,Degree,GraphSage,1251,3,15,12,1
+CiteSeer,Degree,GraphSage,1366,1,3,2,1
+CiteSeer,Degree,GraphSage,1410,1,1,0,0
+CiteSeer,Degree,GraphSage,1422,1,1,0,0
+CiteSeer,Degree,GraphSage,1429,1,1,0,0
+CiteSeer,Degree,GraphSage,1567,1,1,0,0
+CiteSeer,Degree,GraphSage,1585,1,1,0,0
+CiteSeer,Degree,GraphSage,1587,2,2,0,0
+CiteSeer,Degree,GraphSage,1605,2,3,1,1
+CiteSeer,Degree,GraphSage,1620,1,1,0,0
+CiteSeer,Degree,GraphSage,1625,2,2,0,0
+CiteSeer,Degree,GraphSage,1644,1,3,2,1
+CiteSeer,Degree,GraphSage,1666,1,1,0,0
+CiteSeer,Degree,GraphSage,1708,3,3,0,0
+CiteSeer,Degree,GraphSage,1822,1,1,0,0
+CiteSeer,Degree,GraphSage,1853,3,4,1,1
+CiteSeer,Degree,GraphSage,1875,1,1,0,0
+CiteSeer,Degree,GraphSage,1879,1,1,0,0
+CiteSeer,Degree,GraphSage,1894,1,4,3,1
+CiteSeer,Degree,GraphSage,1896,1,1,0,0
+CiteSeer,Degree,GraphSage,1943,4,4,0,0
+CiteSeer,Degree,GraphSage,1992,1,1,0,0
+CiteSeer,Degree,GraphSage,2023,1,1,0,0
+CiteSeer,Degree,GraphSage,2067,2,4,2,1
+CiteSeer,Degree,GraphSage,2166,3,4,1,1
+CiteSeer,Degree,GraphSage,2174,3,3,0,0
+CiteSeer,Degree,GraphSage,2189,1,4,3,1
+CiteSeer,Degree,GraphSage,2196,1,2,1,1
+CiteSeer,Degree,GraphSage,2217,1,1,0,0
+CiteSeer,Degree,GraphSage,2264,1,1,0,0
+CiteSeer,Degree,GraphSage,2316,1,1,0,0
+CiteSeer,Degree,GraphSage,2339,1,1,0,0
+CiteSeer,Degree,GraphSage,2361,1,2,1,1
+CiteSeer,Degree,GraphSage,2396,1,2,1,1
+CiteSeer,Degree,GraphSage,2398,1,6,5,1
+CiteSeer,Degree,GraphSage,2404,3,5,2,1
+CiteSeer,Degree,GraphSage,2416,2,2,0,0
+CiteSeer,Degree,GraphSage,2418,1,1,0,0
+CiteSeer,Degree,GraphSage,2427,4,2,-2,0
+CiteSeer,Degree,GraphSage,2435,1,1,0,0
+CiteSeer,Degree,GraphSage,2447,1,5,4,1
+CiteSeer,Degree,GraphSage,2475,4,6,2,1
+CiteSeer,Degree,GraphSage,2506,1,7,6,1
+CiteSeer,Degree,GraphSage,2507,1,1,0,0
+CiteSeer,Degree,GraphSage,2519,1,1,0,0
+CiteSeer,Degree,GraphSage,2596,1,1,0,0
+CiteSeer,Degree,GraphSage,2597,3,3,0,0
+CiteSeer,Degree,GraphSage,2622,1,1,0,0
+CiteSeer,Degree,GraphSage,2633,1,2,1,1
+CiteSeer,Degree,GraphSage,2638,1,2,1,1
+CiteSeer,Degree,GraphSage,2646,1,1,0,0
+CiteSeer,Degree,GraphSage,2655,1,1,0,0
+CiteSeer,Degree,GraphSage,2703,5,6,1,1
+CiteSeer,Page Rank,GraphSage,12,2,2,0,0
+CiteSeer,Page Rank,GraphSage,16,3,5,2,1
+CiteSeer,Page Rank,GraphSage,27,3,4,1,1
+CiteSeer,Page Rank,GraphSage,28,1,1,0,0
+CiteSeer,Page Rank,GraphSage,43,1,1,0,0
+CiteSeer,Page Rank,GraphSage,83,1,2,1,1
+CiteSeer,Page Rank,GraphSage,98,1,1,0,0
+CiteSeer,Page Rank,GraphSage,136,1,1,0,0
+CiteSeer,Page Rank,GraphSage,150,1,1,0,0
+CiteSeer,Page Rank,GraphSage,208,4,8,4,1
+CiteSeer,Page Rank,GraphSage,229,1,1,0,0
+CiteSeer,Page Rank,GraphSage,254,5,1,-4,0
+CiteSeer,Page Rank,GraphSage,303,2,2,0,0
+CiteSeer,Page Rank,GraphSage,307,3,10,7,1
+CiteSeer,Page Rank,GraphSage,314,2,4,2,1
+CiteSeer,Page Rank,GraphSage,450,3,3,0,0
+CiteSeer,Page Rank,GraphSage,453,1,1,0,0
+CiteSeer,Page Rank,GraphSage,468,2,2,0,0
+CiteSeer,Page Rank,GraphSage,486,1,1,0,0
+CiteSeer,Page Rank,GraphSage,540,1,2,1,1
+CiteSeer,Page Rank,GraphSage,541,1,1,0,0
+CiteSeer,Page Rank,GraphSage,582,1,1,0,0
+CiteSeer,Page Rank,GraphSage,616,1,6,5,1
+CiteSeer,Page Rank,GraphSage,622,5,5,0,0
+CiteSeer,Page Rank,GraphSage,624,2,2,0,0
+CiteSeer,Page Rank,GraphSage,637,3,4,1,1
+CiteSeer,Page Rank,GraphSage,661,1,2,1,1
+CiteSeer,Page Rank,GraphSage,667,5,6,1,1
+CiteSeer,Page Rank,GraphSage,670,1,1,0,0
+CiteSeer,Page Rank,GraphSage,755,1,1,0,0
+CiteSeer,Page Rank,GraphSage,847,4,5,1,1
+CiteSeer,Page Rank,GraphSage,886,5,5,0,0
+CiteSeer,Page Rank,GraphSage,887,3,3,0,0
+CiteSeer,Page Rank,GraphSage,912,3,3,0,0
+CiteSeer,Page Rank,GraphSage,962,2,5,3,1
+CiteSeer,Page Rank,GraphSage,965,1,2,1,1
+CiteSeer,Page Rank,GraphSage,968,1,1,0,0
+CiteSeer,Page Rank,GraphSage,1012,1,2,1,1
+CiteSeer,Page Rank,GraphSage,1013,1,1,0,0
+CiteSeer,Page Rank,GraphSage,1034,3,4,1,1
+CiteSeer,Page Rank,GraphSage,1097,1,1,0,0
+CiteSeer,Page Rank,GraphSage,1112,1,1,0,0
+CiteSeer,Page Rank,GraphSage,1117,5,5,0,0
+CiteSeer,Page Rank,GraphSage,1130,1,2,1,1
+CiteSeer,Page Rank,GraphSage,1131,1,1,0,0
+CiteSeer,Page Rank,GraphSage,1180,4,1,-3,0
+CiteSeer,Page Rank,GraphSage,1214,1,1,0,0
+CiteSeer,Page Rank,GraphSage,1251,3,3,0,0
+CiteSeer,Page Rank,GraphSage,1366,1,3,2,1
+CiteSeer,Page Rank,GraphSage,1410,1,1,0,0
+CiteSeer,Page Rank,GraphSage,1422,1,1,0,0
+CiteSeer,Page Rank,GraphSage,1429,1,1,0,0
+CiteSeer,Page Rank,GraphSage,1567,1,1,0,0
+CiteSeer,Page Rank,GraphSage,1585,1,1,0,0
+CiteSeer,Page Rank,GraphSage,1587,2,1,-1,0
+CiteSeer,Page Rank,GraphSage,1605,2,3,1,1
+CiteSeer,Page Rank,GraphSage,1620,1,1,0,0
+CiteSeer,Page Rank,GraphSage,1625,2,2,0,0
+CiteSeer,Page Rank,GraphSage,1644,1,3,2,1
+CiteSeer,Page Rank,GraphSage,1666,1,1,0,0
+CiteSeer,Page Rank,GraphSage,1708,3,3,0,0
+CiteSeer,Page Rank,GraphSage,1822,1,1,0,0
+CiteSeer,Page Rank,GraphSage,1853,3,6,3,1
+CiteSeer,Page Rank,GraphSage,1875,1,1,0,0
+CiteSeer,Page Rank,GraphSage,1879,1,1,0,0
+CiteSeer,Page Rank,GraphSage,1894,1,4,3,1
+CiteSeer,Page Rank,GraphSage,1896,1,1,0,0
+CiteSeer,Page Rank,GraphSage,1943,4,4,0,0
+CiteSeer,Page Rank,GraphSage,1992,1,1,0,0
+CiteSeer,Page Rank,GraphSage,2023,1,1,0,0
+CiteSeer,Page Rank,GraphSage,2067,2,4,2,1
+CiteSeer,Page Rank,GraphSage,2166,3,5,2,1
+CiteSeer,Page Rank,GraphSage,2174,3,3,0,0
+CiteSeer,Page Rank,GraphSage,2189,1,4,3,1
+CiteSeer,Page Rank,GraphSage,2196,1,2,1,1
+CiteSeer,Page Rank,GraphSage,2217,1,1,0,0
+CiteSeer,Page Rank,GraphSage,2264,1,1,0,0
+CiteSeer,Page Rank,GraphSage,2316,1,1,0,0
+CiteSeer,Page Rank,GraphSage,2339,1,1,0,0
+CiteSeer,Page Rank,GraphSage,2361,1,2,1,1
+CiteSeer,Page Rank,GraphSage,2396,1,3,2,1
+CiteSeer,Page Rank,GraphSage,2398,1,6,5,1
+CiteSeer,Page Rank,GraphSage,2404,3,2,-1,0
+CiteSeer,Page Rank,GraphSage,2416,2,1,-1,0
+CiteSeer,Page Rank,GraphSage,2418,1,1,0,0
+CiteSeer,Page Rank,GraphSage,2427,4,4,0,0
+CiteSeer,Page Rank,GraphSage,2435,1,1,0,0
+CiteSeer,Page Rank,GraphSage,2447,1,4,3,1
+CiteSeer,Page Rank,GraphSage,2475,4,6,2,1
+CiteSeer,Page Rank,GraphSage,2506,1,9,8,1
+CiteSeer,Page Rank,GraphSage,2507,1,1,0,0
+CiteSeer,Page Rank,GraphSage,2519,1,1,0,0
+CiteSeer,Page Rank,GraphSage,2596,1,1,0,0
+CiteSeer,Page Rank,GraphSage,2597,3,4,1,1
+CiteSeer,Page Rank,GraphSage,2622,1,1,0,0
+CiteSeer,Page Rank,GraphSage,2633,1,1,0,0
+CiteSeer,Page Rank,GraphSage,2638,1,2,1,1
+CiteSeer,Page Rank,GraphSage,2646,1,1,0,0
+CiteSeer,Page Rank,GraphSage,2655,1,1,0,0
+CiteSeer,Page Rank,GraphSage,2703,5,6,1,1
+CiteSeer,Viking,GraphSage,12,2,2,0,0
+CiteSeer,Viking,GraphSage,16,3,3,0,0
+CiteSeer,Viking,GraphSage,27,3,2,-1,0
+CiteSeer,Viking,GraphSage,28,1,1,0,0
+CiteSeer,Viking,GraphSage,43,1,1,0,0
+CiteSeer,Viking,GraphSage,83,1,1,0,0
+CiteSeer,Viking,GraphSage,98,1,1,0,0
+CiteSeer,Viking,GraphSage,136,1,1,0,0
+CiteSeer,Viking,GraphSage,150,1,2,1,1
+CiteSeer,Viking,GraphSage,208,4,11,7,1
+CiteSeer,Viking,GraphSage,229,1,1,0,0
+CiteSeer,Viking,GraphSage,254,5,14,9,1
+CiteSeer,Viking,GraphSage,303,2,2,0,0
+CiteSeer,Viking,GraphSage,307,3,1,-2,0
+CiteSeer,Viking,GraphSage,314,2,5,3,1
+CiteSeer,Viking,GraphSage,450,3,1,-2,0
+CiteSeer,Viking,GraphSage,453,1,1,0,0
+CiteSeer,Viking,GraphSage,468,2,3,1,1
+CiteSeer,Viking,GraphSage,486,1,1,0,0
+CiteSeer,Viking,GraphSage,540,1,1,0,0
+CiteSeer,Viking,GraphSage,541,1,1,0,0
+CiteSeer,Viking,GraphSage,582,1,1,0,0
+CiteSeer,Viking,GraphSage,616,1,1,0,0
+CiteSeer,Viking,GraphSage,622,5,5,0,0
+CiteSeer,Viking,GraphSage,624,2,2,0,0
+CiteSeer,Viking,GraphSage,637,3,3,0,0
+CiteSeer,Viking,GraphSage,661,1,2,1,1
+CiteSeer,Viking,GraphSage,667,5,6,1,1
+CiteSeer,Viking,GraphSage,670,1,1,0,0
+CiteSeer,Viking,GraphSage,755,1,1,0,0
+CiteSeer,Viking,GraphSage,847,4,7,3,1
+CiteSeer,Viking,GraphSage,886,5,6,1,1
+CiteSeer,Viking,GraphSage,887,3,1,-2,0
+CiteSeer,Viking,GraphSage,912,3,3,0,0
+CiteSeer,Viking,GraphSage,962,2,3,1,1
+CiteSeer,Viking,GraphSage,965,1,1,0,0
+CiteSeer,Viking,GraphSage,968,1,1,0,0
+CiteSeer,Viking,GraphSage,1012,1,1,0,0
+CiteSeer,Viking,GraphSage,1013,1,4,3,1
+CiteSeer,Viking,GraphSage,1034,3,3,0,0
+CiteSeer,Viking,GraphSage,1097,1,2,1,1
+CiteSeer,Viking,GraphSage,1112,1,1,0,0
+CiteSeer,Viking,GraphSage,1117,5,7,2,1
+CiteSeer,Viking,GraphSage,1130,1,2,1,1
+CiteSeer,Viking,GraphSage,1131,1,1,0,0
+CiteSeer,Viking,GraphSage,1180,4,4,0,0
+CiteSeer,Viking,GraphSage,1214,1,1,0,0
+CiteSeer,Viking,GraphSage,1251,3,3,0,0
+CiteSeer,Viking,GraphSage,1366,1,1,0,0
+CiteSeer,Viking,GraphSage,1410,1,1,0,0
+CiteSeer,Viking,GraphSage,1422,1,1,0,0
+CiteSeer,Viking,GraphSage,1429,1,1,0,0
+CiteSeer,Viking,GraphSage,1567,1,1,0,0
+CiteSeer,Viking,GraphSage,1585,1,2,1,1
+CiteSeer,Viking,GraphSage,1587,2,3,1,1
+CiteSeer,Viking,GraphSage,1605,2,5,3,1
+CiteSeer,Viking,GraphSage,1620,1,1,0,0
+CiteSeer,Viking,GraphSage,1625,2,2,0,0
+CiteSeer,Viking,GraphSage,1644,1,1,0,0
+CiteSeer,Viking,GraphSage,1666,1,1,0,0
+CiteSeer,Viking,GraphSage,1708,3,3,0,0
+CiteSeer,Viking,GraphSage,1822,1,1,0,0
+CiteSeer,Viking,GraphSage,1853,3,4,1,1
+CiteSeer,Viking,GraphSage,1875,1,1,0,0
+CiteSeer,Viking,GraphSage,1879,1,1,0,0
+CiteSeer,Viking,GraphSage,1894,1,1,0,0
+CiteSeer,Viking,GraphSage,1896,1,1,0,0
+CiteSeer,Viking,GraphSage,1943,4,4,0,0
+CiteSeer,Viking,GraphSage,1992,1,1,0,0
+CiteSeer,Viking,GraphSage,2023,1,1,0,0
+CiteSeer,Viking,GraphSage,2067,2,2,0,0
+CiteSeer,Viking,GraphSage,2166,3,3,0,0
+CiteSeer,Viking,GraphSage,2174,3,3,0,0
+CiteSeer,Viking,GraphSage,2189,1,1,0,0
+CiteSeer,Viking,GraphSage,2196,1,1,0,0
+CiteSeer,Viking,GraphSage,2217,1,1,0,0
+CiteSeer,Viking,GraphSage,2264,1,1,0,0
+CiteSeer,Viking,GraphSage,2316,1,1,0,0
+CiteSeer,Viking,GraphSage,2339,1,1,0,0
+CiteSeer,Viking,GraphSage,2361,1,2,1,1
+CiteSeer,Viking,GraphSage,2396,1,1,0,0
+CiteSeer,Viking,GraphSage,2398,1,2,1,1
+CiteSeer,Viking,GraphSage,2404,3,3,0,0
+CiteSeer,Viking,GraphSage,2416,2,4,2,1
+CiteSeer,Viking,GraphSage,2418,1,1,0,0
+CiteSeer,Viking,GraphSage,2427,4,4,0,0
+CiteSeer,Viking,GraphSage,2435,1,1,0,0
+CiteSeer,Viking,GraphSage,2447,1,1,0,0
+CiteSeer,Viking,GraphSage,2475,4,4,0,0
+CiteSeer,Viking,GraphSage,2506,1,1,0,0
+CiteSeer,Viking,GraphSage,2507,1,1,0,0
+CiteSeer,Viking,GraphSage,2519,1,1,0,0
+CiteSeer,Viking,GraphSage,2596,1,1,0,0
+CiteSeer,Viking,GraphSage,2597,3,3,0,0
+CiteSeer,Viking,GraphSage,2622,1,1,0,0
+CiteSeer,Viking,GraphSage,2633,1,1,0,0
+CiteSeer,Viking,GraphSage,2638,1,1,0,0
+CiteSeer,Viking,GraphSage,2646,1,1,0,0
+CiteSeer,Viking,GraphSage,2655,1,1,0,0
+CiteSeer,Viking,GraphSage,2703,5,5,0,0
+CiteSeer,Proposed Method,GraphSage,12,2,2,0,0
+CiteSeer,Proposed Method,GraphSage,16,3,5,2,1
+CiteSeer,Proposed Method,GraphSage,27,3,10,7,1
+CiteSeer,Proposed Method,GraphSage,28,1,2,1,1
+CiteSeer,Proposed Method,GraphSage,43,1,3,2,1
+CiteSeer,Proposed Method,GraphSage,83,1,3,2,1
+CiteSeer,Proposed Method,GraphSage,98,1,5,4,1
+CiteSeer,Proposed Method,GraphSage,136,1,1,0,0
+CiteSeer,Proposed Method,GraphSage,150,1,2,1,1
+CiteSeer,Proposed Method,GraphSage,208,4,5,1,1
+CiteSeer,Proposed Method,GraphSage,229,1,9,8,1
+CiteSeer,Proposed Method,GraphSage,254,5,2,-3,0
+CiteSeer,Proposed Method,GraphSage,303,2,2,0,0
+CiteSeer,Proposed Method,GraphSage,307,3,8,5,1
+CiteSeer,Proposed Method,GraphSage,314,2,5,3,1
+CiteSeer,Proposed Method,GraphSage,450,3,2,-1,0
+CiteSeer,Proposed Method,GraphSage,453,1,1,0,0
+CiteSeer,Proposed Method,GraphSage,468,2,7,5,1
+CiteSeer,Proposed Method,GraphSage,486,1,5,4,1
+CiteSeer,Proposed Method,GraphSage,540,1,6,5,1
+CiteSeer,Proposed Method,GraphSage,541,1,2,1,1
+CiteSeer,Proposed Method,GraphSage,582,1,1,0,0
+CiteSeer,Proposed Method,GraphSage,616,1,6,5,1
+CiteSeer,Proposed Method,GraphSage,622,5,7,2,1
+CiteSeer,Proposed Method,GraphSage,624,2,4,2,1
+CiteSeer,Proposed Method,GraphSage,637,3,2,-1,0
+CiteSeer,Proposed Method,GraphSage,661,1,8,7,1
+CiteSeer,Proposed Method,GraphSage,667,5,8,3,1
+CiteSeer,Proposed Method,GraphSage,670,1,2,1,1
+CiteSeer,Proposed Method,GraphSage,755,1,1,0,0
+CiteSeer,Proposed Method,GraphSage,847,4,16,12,1
+CiteSeer,Proposed Method,GraphSage,886,5,3,-2,0
+CiteSeer,Proposed Method,GraphSage,887,3,8,5,1
+CiteSeer,Proposed Method,GraphSage,912,3,3,0,0
+CiteSeer,Proposed Method,GraphSage,962,2,6,4,1
+CiteSeer,Proposed Method,GraphSage,965,1,6,5,1
+CiteSeer,Proposed Method,GraphSage,968,1,4,3,1
+CiteSeer,Proposed Method,GraphSage,1012,1,10,9,1
+CiteSeer,Proposed Method,GraphSage,1013,1,4,3,1
+CiteSeer,Proposed Method,GraphSage,1034,3,5,2,1
+CiteSeer,Proposed Method,GraphSage,1097,1,6,5,1
+CiteSeer,Proposed Method,GraphSage,1112,1,2,1,1
+CiteSeer,Proposed Method,GraphSage,1117,5,9,4,1
+CiteSeer,Proposed Method,GraphSage,1130,1,2,1,1
+CiteSeer,Proposed Method,GraphSage,1131,1,4,3,1
+CiteSeer,Proposed Method,GraphSage,1180,4,6,2,1
+CiteSeer,Proposed Method,GraphSage,1214,1,1,0,0
+CiteSeer,Proposed Method,GraphSage,1251,3,15,12,1
+CiteSeer,Proposed Method,GraphSage,1366,1,4,3,1
+CiteSeer,Proposed Method,GraphSage,1410,1,6,5,1
+CiteSeer,Proposed Method,GraphSage,1422,1,1,0,0
+CiteSeer,Proposed Method,GraphSage,1429,1,2,1,1
+CiteSeer,Proposed Method,GraphSage,1567,1,2,1,1
+CiteSeer,Proposed Method,GraphSage,1585,1,10,9,1
+CiteSeer,Proposed Method,GraphSage,1587,2,3,1,1
+CiteSeer,Proposed Method,GraphSage,1605,2,5,3,1
+CiteSeer,Proposed Method,GraphSage,1620,1,1,0,0
+CiteSeer,Proposed Method,GraphSage,1625,2,3,1,1
+CiteSeer,Proposed Method,GraphSage,1644,1,3,2,1
+CiteSeer,Proposed Method,GraphSage,1666,1,4,3,1
+CiteSeer,Proposed Method,GraphSage,1708,3,7,4,1
+CiteSeer,Proposed Method,GraphSage,1822,1,2,1,1
+CiteSeer,Proposed Method,GraphSage,1853,3,6,3,1
+CiteSeer,Proposed Method,GraphSage,1875,1,1,0,0
+CiteSeer,Proposed Method,GraphSage,1879,1,2,1,1
+CiteSeer,Proposed Method,GraphSage,1894,1,5,4,1
+CiteSeer,Proposed Method,GraphSage,1896,1,4,3,1
+CiteSeer,Proposed Method,GraphSage,1943,4,11,7,1
+CiteSeer,Proposed Method,GraphSage,1992,1,4,3,1
+CiteSeer,Proposed Method,GraphSage,2023,1,7,6,1
+CiteSeer,Proposed Method,GraphSage,2067,2,4,2,1
+CiteSeer,Proposed Method,GraphSage,2166,3,5,2,1
+CiteSeer,Proposed Method,GraphSage,2174,3,3,0,0
+CiteSeer,Proposed Method,GraphSage,2189,1,7,6,1
+CiteSeer,Proposed Method,GraphSage,2196,1,5,4,1
+CiteSeer,Proposed Method,GraphSage,2217,1,1,0,0
+CiteSeer,Proposed Method,GraphSage,2264,1,1,0,0
+CiteSeer,Proposed Method,GraphSage,2316,1,3,2,1
+CiteSeer,Proposed Method,GraphSage,2339,1,1,0,0
+CiteSeer,Proposed Method,GraphSage,2361,1,9,8,1
+CiteSeer,Proposed Method,GraphSage,2396,1,10,9,1
+CiteSeer,Proposed Method,GraphSage,2398,1,7,6,1
+CiteSeer,Proposed Method,GraphSage,2404,3,13,10,1
+CiteSeer,Proposed Method,GraphSage,2416,2,1,-1,0
+CiteSeer,Proposed Method,GraphSage,2418,1,1,0,0
+CiteSeer,Proposed Method,GraphSage,2427,4,4,0,0
+CiteSeer,Proposed Method,GraphSage,2435,1,5,4,1
+CiteSeer,Proposed Method,GraphSage,2447,1,6,5,1
+CiteSeer,Proposed Method,GraphSage,2475,4,7,3,1
+CiteSeer,Proposed Method,GraphSage,2506,1,1,0,0
+CiteSeer,Proposed Method,GraphSage,2507,1,2,1,1
+CiteSeer,Proposed Method,GraphSage,2519,1,3,2,1
+CiteSeer,Proposed Method,GraphSage,2596,1,12,11,1
+CiteSeer,Proposed Method,GraphSage,2597,3,10,7,1
+CiteSeer,Proposed Method,GraphSage,2622,1,3,2,1
+CiteSeer,Proposed Method,GraphSage,2633,1,9,8,1
+CiteSeer,Proposed Method,GraphSage,2638,1,8,7,1
+CiteSeer,Proposed Method,GraphSage,2646,1,1,0,0
+CiteSeer,Proposed Method,GraphSage,2655,1,5,4,1
+CiteSeer,Proposed Method,GraphSage,2703,5,7,2,1
+PubMed,Degree,GCN,2,1,1,0,0
+PubMed,Degree,GCN,10,1,1,0,0
+PubMed,Degree,GCN,47,1,1,0,0
+PubMed,Degree,GCN,49,1,1,0,0
+PubMed,Degree,GCN,57,1,1,0,0
+PubMed,Degree,GCN,70,143,87,-56,0
+PubMed,Degree,GCN,75,3,2,-1,0
+PubMed,Degree,GCN,89,27,48,21,1
+PubMed,Degree,GCN,107,958,1864,906,1
+PubMed,Degree,GCN,110,1,1,0,0
+PubMed,Degree,GCN,114,2,1,-1,0
+PubMed,Degree,GCN,128,3,7,4,1
+PubMed,Degree,GCN,152,1,1,0,0
+PubMed,Degree,GCN,159,1,1,0,0
+PubMed,Degree,GCN,160,1,1,0,0
+PubMed,Degree,GCN,162,7,31,24,1
+PubMed,Degree,GCN,165,1,1,0,0
+PubMed,Degree,GCN,167,1,1,0,0
+PubMed,Degree,GCN,173,1,3,2,1
+PubMed,Degree,GCN,198,227,1094,867,1
+PubMed,Degree,GCN,207,1,1,0,0
+PubMed,Degree,GCN,209,39,34,-5,0
+PubMed,Degree,GCN,215,6,6,0,0
+PubMed,Degree,GCN,216,1,11,10,1
+PubMed,Degree,GCN,222,2,7,5,1
+PubMed,Degree,GCN,257,1,2,1,1
+PubMed,Degree,GCN,261,13,6,-7,0
+PubMed,Degree,GCN,273,7,8,1,1
+PubMed,Degree,GCN,297,1,2,1,1
+PubMed,Degree,GCN,315,3,13,10,1
+PubMed,Degree,GCN,324,1,1,0,0
+PubMed,Degree,GCN,325,23,27,4,1
+PubMed,Degree,GCN,328,2,10,8,1
+PubMed,Degree,GCN,361,1,1,0,0
+PubMed,Degree,GCN,363,1,3,2,1
+PubMed,Degree,GCN,370,11,19,8,1
+PubMed,Degree,GCN,371,1,2,1,1
+PubMed,Degree,GCN,380,1,1,0,0
+PubMed,Degree,GCN,382,9,2,-7,0
+PubMed,Degree,GCN,383,6,5,-1,0
+PubMed,Degree,GCN,386,1,1,0,0
+PubMed,Degree,GCN,393,11,11,0,0
+PubMed,Degree,GCN,404,1,1,0,0
+PubMed,Degree,GCN,409,1,9,8,1
+PubMed,Degree,GCN,421,2,2,0,0
+PubMed,Degree,GCN,443,3,3,0,0
+PubMed,Degree,GCN,468,4,4,0,0
+PubMed,Degree,GCN,482,14,82,68,1
+PubMed,Degree,GCN,484,99,160,61,1
+PubMed,Degree,GCN,487,1,1,0,0
+PubMed,Degree,GCN,491,11,5,-6,0
+PubMed,Degree,GCN,501,20,45,25,1
+PubMed,Degree,GCN,512,4,18,14,1
+PubMed,Degree,GCN,535,1,19,18,1
+PubMed,Degree,GCN,536,1,3,2,1
+PubMed,Degree,GCN,539,1,1,0,0
+PubMed,Degree,GCN,552,13,41,28,1
+PubMed,Degree,GCN,557,2,1,-1,0
+PubMed,Degree,GCN,558,1,2,1,1
+PubMed,Degree,GCN,566,8,24,16,1
+PubMed,Degree,GCN,574,12,7,-5,0
+PubMed,Degree,GCN,579,11,79,68,1
+PubMed,Degree,GCN,588,1,1,0,0
+PubMed,Degree,GCN,592,14,22,8,1
+PubMed,Degree,GCN,624,1,1,0,0
+PubMed,Degree,GCN,636,1,1,0,0
+PubMed,Degree,GCN,643,2,3,1,1
+PubMed,Degree,GCN,645,1,1,0,0
+PubMed,Degree,GCN,661,1,1,0,0
+PubMed,Degree,GCN,673,1,1,0,0
+PubMed,Degree,GCN,675,1,1,0,0
+PubMed,Degree,GCN,677,1,7,6,1
+PubMed,Degree,GCN,686,3,5,2,1
+PubMed,Degree,GCN,690,4,18,14,1
+PubMed,Degree,GCN,707,2,2,0,0
+PubMed,Degree,GCN,713,4,5,1,1
+PubMed,Degree,GCN,721,7,6,-1,0
+PubMed,Degree,GCN,723,5,22,17,1
+PubMed,Degree,GCN,724,1,3,2,1
+PubMed,Degree,GCN,748,1,1,0,0
+PubMed,Degree,GCN,752,9,12,3,1
+PubMed,Degree,GCN,755,1,1,0,0
+PubMed,Degree,GCN,770,5,17,12,1
+PubMed,Degree,GCN,777,2,2,0,0
+PubMed,Degree,GCN,782,3,4,1,1
+PubMed,Degree,GCN,835,1,1,0,0
+PubMed,Degree,GCN,846,6,7,1,1
+PubMed,Degree,GCN,885,2,2,0,0
+PubMed,Degree,GCN,889,6,5,-1,0
+PubMed,Degree,GCN,908,1,2,1,1
+PubMed,Degree,GCN,920,16,3,-13,0
+PubMed,Degree,GCN,929,309,280,-29,0
+PubMed,Degree,GCN,938,40,44,4,1
+PubMed,Degree,GCN,956,4,16,12,1
+PubMed,Degree,GCN,963,26,86,60,1
+PubMed,Degree,GCN,966,1,1,0,0
+PubMed,Degree,GCN,968,1,1,0,0
+PubMed,Degree,GCN,988,22,7,-15,0
+PubMed,Degree,GCN,997,3,14,11,1
+PubMed,Degree,GCN,1000,40,18,-22,0
+PubMed,Page Rank,GCN,2,1,1,0,0
+PubMed,Page Rank,GCN,10,1,1,0,0
+PubMed,Page Rank,GCN,47,1,1,0,0
+PubMed,Page Rank,GCN,49,1,2,1,1
+PubMed,Page Rank,GCN,57,1,1,0,0
+PubMed,Page Rank,GCN,70,143,97,-46,0
+PubMed,Page Rank,GCN,75,3,4,1,1
+PubMed,Page Rank,GCN,89,27,47,20,1
+PubMed,Page Rank,GCN,107,958,1864,906,1
+PubMed,Page Rank,GCN,110,1,1,0,0
+PubMed,Page Rank,GCN,114,2,2,0,0
+PubMed,Page Rank,GCN,128,3,7,4,1
+PubMed,Page Rank,GCN,152,1,1,0,0
+PubMed,Page Rank,GCN,159,1,1,0,0
+PubMed,Page Rank,GCN,160,1,1,0,0
+PubMed,Page Rank,GCN,162,7,31,24,1
+PubMed,Page Rank,GCN,165,1,1,0,0
+PubMed,Page Rank,GCN,167,1,2,1,1
+PubMed,Page Rank,GCN,173,1,3,2,1
+PubMed,Page Rank,GCN,198,227,1094,867,1
+PubMed,Page Rank,GCN,207,1,1,0,0
+PubMed,Page Rank,GCN,209,39,53,14,1
+PubMed,Page Rank,GCN,215,6,7,1,1
+PubMed,Page Rank,GCN,216,1,11,10,1
+PubMed,Page Rank,GCN,222,2,7,5,1
+PubMed,Page Rank,GCN,257,1,2,1,1
+PubMed,Page Rank,GCN,261,13,5,-8,0
+PubMed,Page Rank,GCN,273,7,8,1,1
+PubMed,Page Rank,GCN,297,1,2,1,1
+PubMed,Page Rank,GCN,315,3,13,10,1
+PubMed,Page Rank,GCN,324,1,1,0,0
+PubMed,Page Rank,GCN,325,23,20,-3,0
+PubMed,Page Rank,GCN,328,2,10,8,1
+PubMed,Page Rank,GCN,361,1,1,0,0
+PubMed,Page Rank,GCN,363,1,3,2,1
+PubMed,Page Rank,GCN,370,11,12,1,1
+PubMed,Page Rank,GCN,371,1,2,1,1
+PubMed,Page Rank,GCN,380,1,1,0,0
+PubMed,Page Rank,GCN,382,9,2,-7,0
+PubMed,Page Rank,GCN,383,6,5,-1,0
+PubMed,Page Rank,GCN,386,1,1,0,0
+PubMed,Page Rank,GCN,393,11,11,0,0
+PubMed,Page Rank,GCN,404,1,1,0,0
+PubMed,Page Rank,GCN,409,1,9,8,1
+PubMed,Page Rank,GCN,421,2,2,0,0
+PubMed,Page Rank,GCN,443,3,3,0,0
+PubMed,Page Rank,GCN,468,4,3,-1,0
+PubMed,Page Rank,GCN,482,14,82,68,1
+PubMed,Page Rank,GCN,484,99,83,-16,0
+PubMed,Page Rank,GCN,487,1,1,0,0
+PubMed,Page Rank,GCN,491,11,5,-6,0
+PubMed,Page Rank,GCN,501,20,29,9,1
+PubMed,Page Rank,GCN,512,4,4,0,0
+PubMed,Page Rank,GCN,535,1,2,1,1
+PubMed,Page Rank,GCN,536,1,5,4,1
+PubMed,Page Rank,GCN,539,1,1,0,0
+PubMed,Page Rank,GCN,552,13,37,24,1
+PubMed,Page Rank,GCN,557,2,1,-1,0
+PubMed,Page Rank,GCN,558,1,2,1,1
+PubMed,Page Rank,GCN,566,8,16,8,1
+PubMed,Page Rank,GCN,574,12,7,-5,0
+PubMed,Page Rank,GCN,579,11,79,68,1
+PubMed,Page Rank,GCN,588,1,1,0,0
+PubMed,Page Rank,GCN,592,14,13,-1,0
+PubMed,Page Rank,GCN,624,1,2,1,1
+PubMed,Page Rank,GCN,636,1,1,0,0
+PubMed,Page Rank,GCN,643,2,3,1,1
+PubMed,Page Rank,GCN,645,1,1,0,0
+PubMed,Page Rank,GCN,661,1,1,0,0
+PubMed,Page Rank,GCN,673,1,1,0,0
+PubMed,Page Rank,GCN,675,1,1,0,0
+PubMed,Page Rank,GCN,677,1,7,6,1
+PubMed,Page Rank,GCN,686,3,5,2,1
+PubMed,Page Rank,GCN,690,4,35,31,1
+PubMed,Page Rank,GCN,707,2,2,0,0
+PubMed,Page Rank,GCN,713,4,5,1,1
+PubMed,Page Rank,GCN,721,7,6,-1,0
+PubMed,Page Rank,GCN,723,5,22,17,1
+PubMed,Page Rank,GCN,724,1,3,2,1
+PubMed,Page Rank,GCN,748,1,1,0,0
+PubMed,Page Rank,GCN,752,9,9,0,0
+PubMed,Page Rank,GCN,755,1,1,0,0
+PubMed,Page Rank,GCN,770,5,7,2,1
+PubMed,Page Rank,GCN,777,2,2,0,0
+PubMed,Page Rank,GCN,782,3,4,1,1
+PubMed,Page Rank,GCN,835,1,1,0,0
+PubMed,Page Rank,GCN,846,6,7,1,1
+PubMed,Page Rank,GCN,885,2,2,0,0
+PubMed,Page Rank,GCN,889,6,5,-1,0
+PubMed,Page Rank,GCN,908,1,2,1,1
+PubMed,Page Rank,GCN,920,16,3,-13,0
+PubMed,Page Rank,GCN,929,309,280,-29,0
+PubMed,Page Rank,GCN,938,40,59,19,1
+PubMed,Page Rank,GCN,956,4,40,36,1
+PubMed,Page Rank,GCN,963,26,86,60,1
+PubMed,Page Rank,GCN,966,1,1,0,0
+PubMed,Page Rank,GCN,968,1,1,0,0
+PubMed,Page Rank,GCN,988,22,22,0,0
+PubMed,Page Rank,GCN,997,3,14,11,1
+PubMed,Page Rank,GCN,1000,40,18,-22,0
+PubMed,Viking,GCN,2,1,1,0,0
+PubMed,Viking,GCN,10,1,1,0,0
+PubMed,Viking,GCN,47,1,1,0,0
+PubMed,Viking,GCN,49,1,1,0,0
+PubMed,Viking,GCN,57,1,1,0,0
+PubMed,Viking,GCN,70,143,85,-58,0
+PubMed,Viking,GCN,75,3,1,-2,0
+PubMed,Viking,GCN,89,27,30,3,1
+PubMed,Viking,GCN,107,958,1016,58,1
+PubMed,Viking,GCN,110,1,1,0,0
+PubMed,Viking,GCN,114,2,1,-1,0
+PubMed,Viking,GCN,128,3,5,2,1
+PubMed,Viking,GCN,152,1,1,0,0
+PubMed,Viking,GCN,159,1,1,0,0
+PubMed,Viking,GCN,160,1,1,0,0
+PubMed,Viking,GCN,162,7,61,54,1
+PubMed,Viking,GCN,165,1,1,0,0
+PubMed,Viking,GCN,167,1,1,0,0
+PubMed,Viking,GCN,173,1,3,2,1
+PubMed,Viking,GCN,198,227,1116,889,1
+PubMed,Viking,GCN,207,1,1,0,0
+PubMed,Viking,GCN,209,39,31,-8,0
+PubMed,Viking,GCN,215,6,7,1,1
+PubMed,Viking,GCN,216,1,21,20,1
+PubMed,Viking,GCN,222,2,2,0,0
+PubMed,Viking,GCN,257,1,2,1,1
+PubMed,Viking,GCN,261,13,5,-8,0
+PubMed,Viking,GCN,273,7,8,1,1
+PubMed,Viking,GCN,297,1,1,0,0
+PubMed,Viking,GCN,315,3,13,10,1
+PubMed,Viking,GCN,324,1,1,0,0
+PubMed,Viking,GCN,325,23,20,-3,0
+PubMed,Viking,GCN,328,2,22,20,1
+PubMed,Viking,GCN,361,1,1,0,0
+PubMed,Viking,GCN,363,1,4,3,1
+PubMed,Viking,GCN,370,11,9,-2,0
+PubMed,Viking,GCN,371,1,2,1,1
+PubMed,Viking,GCN,380,1,1,0,0
+PubMed,Viking,GCN,382,9,2,-7,0
+PubMed,Viking,GCN,383,6,8,2,1
+PubMed,Viking,GCN,386,1,1,0,0
+PubMed,Viking,GCN,393,11,10,-1,0
+PubMed,Viking,GCN,404,1,1,0,0
+PubMed,Viking,GCN,409,1,12,11,1
+PubMed,Viking,GCN,421,2,2,0,0
+PubMed,Viking,GCN,443,3,3,0,0
+PubMed,Viking,GCN,468,4,6,2,1
+PubMed,Viking,GCN,482,14,116,102,1
+PubMed,Viking,GCN,484,99,166,67,1
+PubMed,Viking,GCN,487,1,1,0,0
+PubMed,Viking,GCN,491,11,8,-3,0
+PubMed,Viking,GCN,501,20,15,-5,0
+PubMed,Viking,GCN,512,4,3,-1,0
+PubMed,Viking,GCN,535,1,3,2,1
+PubMed,Viking,GCN,536,1,4,3,1
+PubMed,Viking,GCN,539,1,1,0,0
+PubMed,Viking,GCN,552,13,32,19,1
+PubMed,Viking,GCN,557,2,1,-1,0
+PubMed,Viking,GCN,558,1,2,1,1
+PubMed,Viking,GCN,566,8,11,3,1
+PubMed,Viking,GCN,574,12,14,2,1
+PubMed,Viking,GCN,579,11,53,42,1
+PubMed,Viking,GCN,588,1,1,0,0
+PubMed,Viking,GCN,592,14,30,16,1
+PubMed,Viking,GCN,624,1,1,0,0
+PubMed,Viking,GCN,636,1,1,0,0
+PubMed,Viking,GCN,643,2,2,0,0
+PubMed,Viking,GCN,645,1,1,0,0
+PubMed,Viking,GCN,661,1,1,0,0
+PubMed,Viking,GCN,673,1,1,0,0
+PubMed,Viking,GCN,675,1,1,0,0
+PubMed,Viking,GCN,677,1,44,43,1
+PubMed,Viking,GCN,686,3,3,0,0
+PubMed,Viking,GCN,690,4,3,-1,0
+PubMed,Viking,GCN,707,2,2,0,0
+PubMed,Viking,GCN,713,4,5,1,1
+PubMed,Viking,GCN,721,7,10,3,1
+PubMed,Viking,GCN,723,5,19,14,1
+PubMed,Viking,GCN,724,1,2,1,1
+PubMed,Viking,GCN,748,1,1,0,0
+PubMed,Viking,GCN,752,9,12,3,1
+PubMed,Viking,GCN,755,1,1,0,0
+PubMed,Viking,GCN,770,5,7,2,1
+PubMed,Viking,GCN,777,2,1,-1,0
+PubMed,Viking,GCN,782,3,3,0,0
+PubMed,Viking,GCN,835,1,1,0,0
+PubMed,Viking,GCN,846,6,59,53,1
+PubMed,Viking,GCN,885,2,2,0,0
+PubMed,Viking,GCN,889,6,5,-1,0
+PubMed,Viking,GCN,908,1,1,0,0
+PubMed,Viking,GCN,920,16,4,-12,0
+PubMed,Viking,GCN,929,309,306,-3,0
+PubMed,Viking,GCN,938,40,22,-18,0
+PubMed,Viking,GCN,956,4,1,-3,0
+PubMed,Viking,GCN,963,26,86,60,1
+PubMed,Viking,GCN,966,1,1,0,0
+PubMed,Viking,GCN,968,1,1,0,0
+PubMed,Viking,GCN,988,22,11,-11,0
+PubMed,Viking,GCN,997,3,1,-2,0
+PubMed,Viking,GCN,1000,40,45,5,1
+PubMed,Proposed Method,GCN,2,1,1,0,0
+PubMed,Proposed Method,GCN,10,1,1,0,0
+PubMed,Proposed Method,GCN,47,1,1,0,0
+PubMed,Proposed Method,GCN,49,1,1,0,0
+PubMed,Proposed Method,GCN,57,1,1,0,0
+PubMed,Proposed Method,GCN,70,143,283,140,1
+PubMed,Proposed Method,GCN,75,3,6,3,1
+PubMed,Proposed Method,GCN,89,27,27,0,0
+PubMed,Proposed Method,GCN,107,958,1725,767,1
+PubMed,Proposed Method,GCN,110,1,2,1,1
+PubMed,Proposed Method,GCN,114,2,1,-1,0
+PubMed,Proposed Method,GCN,128,3,9,6,1
+PubMed,Proposed Method,GCN,152,1,4,3,1
+PubMed,Proposed Method,GCN,159,1,1,0,0
+PubMed,Proposed Method,GCN,160,1,3,2,1
+PubMed,Proposed Method,GCN,162,7,56,49,1
+PubMed,Proposed Method,GCN,165,1,1,0,0
+PubMed,Proposed Method,GCN,167,1,1,0,0
+PubMed,Proposed Method,GCN,173,1,3,2,1
+PubMed,Proposed Method,GCN,198,227,1247,1020,1
+PubMed,Proposed Method,GCN,207,1,2,1,1
+PubMed,Proposed Method,GCN,209,39,72,33,1
+PubMed,Proposed Method,GCN,215,6,9,3,1
+PubMed,Proposed Method,GCN,216,1,5,4,1
+PubMed,Proposed Method,GCN,222,2,5,3,1
+PubMed,Proposed Method,GCN,257,1,55,54,1
+PubMed,Proposed Method,GCN,261,13,6,-7,0
+PubMed,Proposed Method,GCN,273,7,9,2,1
+PubMed,Proposed Method,GCN,297,1,6,5,1
+PubMed,Proposed Method,GCN,315,3,13,10,1
+PubMed,Proposed Method,GCN,324,1,1,0,0
+PubMed,Proposed Method,GCN,325,23,31,8,1
+PubMed,Proposed Method,GCN,328,2,46,44,1
+PubMed,Proposed Method,GCN,361,1,3,2,1
+PubMed,Proposed Method,GCN,363,1,2,1,1
+PubMed,Proposed Method,GCN,370,11,15,4,1
+PubMed,Proposed Method,GCN,371,1,2,1,1
+PubMed,Proposed Method,GCN,380,1,1,0,0
+PubMed,Proposed Method,GCN,382,9,40,31,1
+PubMed,Proposed Method,GCN,383,6,6,0,0
+PubMed,Proposed Method,GCN,386,1,4,3,1
+PubMed,Proposed Method,GCN,393,11,42,31,1
+PubMed,Proposed Method,GCN,404,1,2,1,1
+PubMed,Proposed Method,GCN,409,1,12,11,1
+PubMed,Proposed Method,GCN,421,2,8,6,1
+PubMed,Proposed Method,GCN,443,3,3,0,0
+PubMed,Proposed Method,GCN,468,4,4,0,0
+PubMed,Proposed Method,GCN,482,14,116,102,1
+PubMed,Proposed Method,GCN,484,99,114,15,1
+PubMed,Proposed Method,GCN,487,1,1,0,0
+PubMed,Proposed Method,GCN,491,11,70,59,1
+PubMed,Proposed Method,GCN,501,20,37,17,1
+PubMed,Proposed Method,GCN,512,4,22,18,1
+PubMed,Proposed Method,GCN,535,1,1,0,0
+PubMed,Proposed Method,GCN,536,1,26,25,1
+PubMed,Proposed Method,GCN,539,1,1,0,0
+PubMed,Proposed Method,GCN,552,13,28,15,1
+PubMed,Proposed Method,GCN,557,2,63,61,1
+PubMed,Proposed Method,GCN,558,1,2,1,1
+PubMed,Proposed Method,GCN,566,8,8,0,0
+PubMed,Proposed Method,GCN,574,12,97,85,1
+PubMed,Proposed Method,GCN,579,11,101,90,1
+PubMed,Proposed Method,GCN,588,1,1,0,0
+PubMed,Proposed Method,GCN,592,14,17,3,1
+PubMed,Proposed Method,GCN,624,1,5,4,1
+PubMed,Proposed Method,GCN,636,1,5,4,1
+PubMed,Proposed Method,GCN,643,2,3,1,1
+PubMed,Proposed Method,GCN,645,1,1,0,0
+PubMed,Proposed Method,GCN,661,1,2,1,1
+PubMed,Proposed Method,GCN,673,1,2,1,1
+PubMed,Proposed Method,GCN,675,1,2,1,1
+PubMed,Proposed Method,GCN,677,1,32,31,1
+PubMed,Proposed Method,GCN,686,3,27,24,1
+PubMed,Proposed Method,GCN,690,4,8,4,1
+PubMed,Proposed Method,GCN,707,2,3,1,1
+PubMed,Proposed Method,GCN,713,4,20,16,1
+PubMed,Proposed Method,GCN,721,7,11,4,1
+PubMed,Proposed Method,GCN,723,5,26,21,1
+PubMed,Proposed Method,GCN,724,1,2,1,1
+PubMed,Proposed Method,GCN,748,1,2,1,1
+PubMed,Proposed Method,GCN,752,9,14,5,1
+PubMed,Proposed Method,GCN,755,1,1,0,0
+PubMed,Proposed Method,GCN,770,5,36,31,1
+PubMed,Proposed Method,GCN,777,2,19,17,1
+PubMed,Proposed Method,GCN,782,3,3,0,0
+PubMed,Proposed Method,GCN,835,1,1,0,0
+PubMed,Proposed Method,GCN,846,6,58,52,1
+PubMed,Proposed Method,GCN,885,2,6,4,1
+PubMed,Proposed Method,GCN,889,6,12,6,1
+PubMed,Proposed Method,GCN,908,1,1,0,0
+PubMed,Proposed Method,GCN,920,16,212,196,1
+PubMed,Proposed Method,GCN,929,309,226,-83,0
+PubMed,Proposed Method,GCN,938,40,42,2,1
+PubMed,Proposed Method,GCN,956,4,3,-1,0
+PubMed,Proposed Method,GCN,963,26,106,80,1
+PubMed,Proposed Method,GCN,966,1,1,0,0
+PubMed,Proposed Method,GCN,968,1,1,0,0
+PubMed,Proposed Method,GCN,988,22,32,10,1
+PubMed,Proposed Method,GCN,997,3,16,13,1
+PubMed,Proposed Method,GCN,1000,40,69,29,1
+PubMed,Degree,GraphSage,2,1,1,0,0
+PubMed,Degree,GraphSage,10,1,2,1,1
+PubMed,Degree,GraphSage,47,1,1,0,0
+PubMed,Degree,GraphSage,49,1,1,0,0
+PubMed,Degree,GraphSage,57,1,1,0,0
+PubMed,Degree,GraphSage,70,112,73,-39,0
+PubMed,Degree,GraphSage,75,4,2,-2,0
+PubMed,Degree,GraphSage,89,20,43,23,1
+PubMed,Degree,GraphSage,107,1391,2329,938,1
+PubMed,Degree,GraphSage,110,1,1,0,0
+PubMed,Degree,GraphSage,114,2,1,-1,0
+PubMed,Degree,GraphSage,128,3,7,4,1
+PubMed,Degree,GraphSage,152,1,1,0,0
+PubMed,Degree,GraphSage,159,1,1,0,0
+PubMed,Degree,GraphSage,160,1,1,0,0
+PubMed,Degree,GraphSage,162,5,33,28,1
+PubMed,Degree,GraphSage,165,1,1,0,0
+PubMed,Degree,GraphSage,167,1,1,0,0
+PubMed,Degree,GraphSage,173,1,3,2,1
+PubMed,Degree,GraphSage,198,234,1099,865,1
+PubMed,Degree,GraphSage,207,1,1,0,0
+PubMed,Degree,GraphSage,209,42,38,-4,0
+PubMed,Degree,GraphSage,215,7,7,0,0
+PubMed,Degree,GraphSage,216,1,3,2,1
+PubMed,Degree,GraphSage,222,5,6,1,1
+PubMed,Degree,GraphSage,257,2,4,2,1
+PubMed,Degree,GraphSage,261,15,6,-9,0
+PubMed,Degree,GraphSage,273,7,14,7,1
+PubMed,Degree,GraphSage,297,1,4,3,1
+PubMed,Degree,GraphSage,315,3,14,11,1
+PubMed,Degree,GraphSage,324,1,1,0,0
+PubMed,Degree,GraphSage,325,18,23,5,1
+PubMed,Degree,GraphSage,328,2,13,11,1
+PubMed,Degree,GraphSage,361,1,1,0,0
+PubMed,Degree,GraphSage,363,1,3,2,1
+PubMed,Degree,GraphSage,370,10,19,9,1
+PubMed,Degree,GraphSage,371,1,2,1,1
+PubMed,Degree,GraphSage,380,1,1,0,0
+PubMed,Degree,GraphSage,382,9,2,-7,0
+PubMed,Degree,GraphSage,383,8,8,0,0
+PubMed,Degree,GraphSage,386,1,1,0,0
+PubMed,Degree,GraphSage,393,19,17,-2,0
+PubMed,Degree,GraphSage,404,1,1,0,0
+PubMed,Degree,GraphSage,409,1,8,7,1
+PubMed,Degree,GraphSage,421,2,3,1,1
+PubMed,Degree,GraphSage,443,3,3,0,0
+PubMed,Degree,GraphSage,468,4,3,-1,0
+PubMed,Degree,GraphSage,482,9,57,48,1
+PubMed,Degree,GraphSage,484,86,155,69,1
+PubMed,Degree,GraphSage,487,1,1,0,0
+PubMed,Degree,GraphSage,491,7,4,-3,0
+PubMed,Degree,GraphSage,501,20,50,30,1
+PubMed,Degree,GraphSage,512,4,12,8,1
+PubMed,Degree,GraphSage,535,1,16,15,1
+PubMed,Degree,GraphSage,536,2,5,3,1
+PubMed,Degree,GraphSage,539,1,1,0,0
+PubMed,Degree,GraphSage,552,8,37,29,1
+PubMed,Degree,GraphSage,557,1,1,0,0
+PubMed,Degree,GraphSage,558,1,2,1,1
+PubMed,Degree,GraphSage,566,8,21,13,1
+PubMed,Degree,GraphSage,574,15,7,-8,0
+PubMed,Degree,GraphSage,579,10,81,71,1
+PubMed,Degree,GraphSage,588,1,1,0,0
+PubMed,Degree,GraphSage,592,11,22,11,1
+PubMed,Degree,GraphSage,624,1,1,0,0
+PubMed,Degree,GraphSage,636,1,3,2,1
+PubMed,Degree,GraphSage,643,2,3,1,1
+PubMed,Degree,GraphSage,645,1,1,0,0
+PubMed,Degree,GraphSage,661,1,2,1,1
+PubMed,Degree,GraphSage,673,1,1,0,0
+PubMed,Degree,GraphSage,675,1,1,0,0
+PubMed,Degree,GraphSage,677,1,5,4,1
+PubMed,Degree,GraphSage,686,3,8,5,1
+PubMed,Degree,GraphSage,690,4,18,14,1
+PubMed,Degree,GraphSage,707,2,2,0,0
+PubMed,Degree,GraphSage,713,4,5,1,1
+PubMed,Degree,GraphSage,721,15,9,-6,0
+PubMed,Degree,GraphSage,723,5,20,15,1
+PubMed,Degree,GraphSage,724,1,3,2,1
+PubMed,Degree,GraphSage,748,1,1,0,0
+PubMed,Degree,GraphSage,752,8,12,4,1
+PubMed,Degree,GraphSage,755,1,1,0,0
+PubMed,Degree,GraphSage,770,7,17,10,1
+PubMed,Degree,GraphSage,777,2,2,0,0
+PubMed,Degree,GraphSage,782,2,4,2,1
+PubMed,Degree,GraphSage,835,1,1,0,0
+PubMed,Degree,GraphSage,846,7,8,1,1
+PubMed,Degree,GraphSage,885,2,2,0,0
+PubMed,Degree,GraphSage,889,6,5,-1,0
+PubMed,Degree,GraphSage,908,1,2,1,1
+PubMed,Degree,GraphSage,920,19,4,-15,0
+PubMed,Degree,GraphSage,929,293,256,-37,0
+PubMed,Degree,GraphSage,938,38,42,4,1
+PubMed,Degree,GraphSage,956,3,9,6,1
+PubMed,Degree,GraphSage,963,20,77,57,1
+PubMed,Degree,GraphSage,966,1,1,0,0
+PubMed,Degree,GraphSage,968,1,1,0,0
+PubMed,Degree,GraphSage,988,19,3,-16,0
+PubMed,Degree,GraphSage,997,3,13,10,1
+PubMed,Degree,GraphSage,1000,38,19,-19,0
+PubMed,Page Rank,GraphSage,2,1,1,0,0
+PubMed,Page Rank,GraphSage,10,1,2,1,1
+PubMed,Page Rank,GraphSage,47,1,1,0,0
+PubMed,Page Rank,GraphSage,49,1,1,0,0
+PubMed,Page Rank,GraphSage,57,1,1,0,0
+PubMed,Page Rank,GraphSage,70,112,76,-36,0
+PubMed,Page Rank,GraphSage,75,4,4,0,0
+PubMed,Page Rank,GraphSage,89,20,40,20,1
+PubMed,Page Rank,GraphSage,107,1391,2329,938,1
+PubMed,Page Rank,GraphSage,110,1,1,0,0
+PubMed,Page Rank,GraphSage,114,2,2,0,0
+PubMed,Page Rank,GraphSage,128,3,7,4,1
+PubMed,Page Rank,GraphSage,152,1,1,0,0
+PubMed,Page Rank,GraphSage,159,1,1,0,0
+PubMed,Page Rank,GraphSage,160,1,1,0,0
+PubMed,Page Rank,GraphSage,162,5,33,28,1
+PubMed,Page Rank,GraphSage,165,1,1,0,0
+PubMed,Page Rank,GraphSage,167,1,2,1,1
+PubMed,Page Rank,GraphSage,173,1,3,2,1
+PubMed,Page Rank,GraphSage,198,234,1099,865,1
+PubMed,Page Rank,GraphSage,207,1,1,0,0
+PubMed,Page Rank,GraphSage,209,42,55,13,1
+PubMed,Page Rank,GraphSage,215,7,9,2,1
+PubMed,Page Rank,GraphSage,216,1,3,2,1
+PubMed,Page Rank,GraphSage,222,5,6,1,1
+PubMed,Page Rank,GraphSage,257,2,4,2,1
+PubMed,Page Rank,GraphSage,261,15,4,-11,0
+PubMed,Page Rank,GraphSage,273,7,14,7,1
+PubMed,Page Rank,GraphSage,297,1,4,3,1
+PubMed,Page Rank,GraphSage,315,3,14,11,1
+PubMed,Page Rank,GraphSage,324,1,1,0,0
+PubMed,Page Rank,GraphSage,325,18,17,-1,0
+PubMed,Page Rank,GraphSage,328,2,13,11,1
+PubMed,Page Rank,GraphSage,361,1,1,0,0
+PubMed,Page Rank,GraphSage,363,1,3,2,1
+PubMed,Page Rank,GraphSage,370,10,11,1,1
+PubMed,Page Rank,GraphSage,371,1,2,1,1
+PubMed,Page Rank,GraphSage,380,1,1,0,0
+PubMed,Page Rank,GraphSage,382,9,3,-6,0
+PubMed,Page Rank,GraphSage,383,8,8,0,0
+PubMed,Page Rank,GraphSage,386,1,1,0,0
+PubMed,Page Rank,GraphSage,393,19,17,-2,0
+PubMed,Page Rank,GraphSage,404,1,1,0,0
+PubMed,Page Rank,GraphSage,409,1,8,7,1
+PubMed,Page Rank,GraphSage,421,2,3,1,1
+PubMed,Page Rank,GraphSage,443,3,3,0,0
+PubMed,Page Rank,GraphSage,468,4,2,-2,0
+PubMed,Page Rank,GraphSage,482,9,57,48,1
+PubMed,Page Rank,GraphSage,484,86,75,-11,0
+PubMed,Page Rank,GraphSage,487,1,1,0,0
+PubMed,Page Rank,GraphSage,491,7,4,-3,0
+PubMed,Page Rank,GraphSage,501,20,31,11,1
+PubMed,Page Rank,GraphSage,512,4,5,1,1
+PubMed,Page Rank,GraphSage,535,1,2,1,1
+PubMed,Page Rank,GraphSage,536,2,5,3,1
+PubMed,Page Rank,GraphSage,539,1,1,0,0
+PubMed,Page Rank,GraphSage,552,8,33,25,1
+PubMed,Page Rank,GraphSage,557,1,1,0,0
+PubMed,Page Rank,GraphSage,558,1,2,1,1
+PubMed,Page Rank,GraphSage,566,8,15,7,1
+PubMed,Page Rank,GraphSage,574,15,7,-8,0
+PubMed,Page Rank,GraphSage,579,10,81,71,1
+PubMed,Page Rank,GraphSage,588,1,1,0,0
+PubMed,Page Rank,GraphSage,592,11,12,1,1
+PubMed,Page Rank,GraphSage,624,1,3,2,1
+PubMed,Page Rank,GraphSage,636,1,3,2,1
+PubMed,Page Rank,GraphSage,643,2,3,1,1
+PubMed,Page Rank,GraphSage,645,1,1,0,0
+PubMed,Page Rank,GraphSage,661,1,2,1,1
+PubMed,Page Rank,GraphSage,673,1,1,0,0
+PubMed,Page Rank,GraphSage,675,1,1,0,0
+PubMed,Page Rank,GraphSage,677,1,5,4,1
+PubMed,Page Rank,GraphSage,686,3,8,5,1
+PubMed,Page Rank,GraphSage,690,4,34,30,1
+PubMed,Page Rank,GraphSage,707,2,2,0,0
+PubMed,Page Rank,GraphSage,713,4,5,1,1
+PubMed,Page Rank,GraphSage,721,15,9,-6,0
+PubMed,Page Rank,GraphSage,723,5,20,15,1
+PubMed,Page Rank,GraphSage,724,1,3,2,1
+PubMed,Page Rank,GraphSage,748,1,1,0,0
+PubMed,Page Rank,GraphSage,752,8,10,2,1
+PubMed,Page Rank,GraphSage,755,1,1,0,0
+PubMed,Page Rank,GraphSage,770,7,7,0,0
+PubMed,Page Rank,GraphSage,777,2,2,0,0
+PubMed,Page Rank,GraphSage,782,2,4,2,1
+PubMed,Page Rank,GraphSage,835,1,1,0,0
+PubMed,Page Rank,GraphSage,846,7,8,1,1
+PubMed,Page Rank,GraphSage,885,2,2,0,0
+PubMed,Page Rank,GraphSage,889,6,5,-1,0
+PubMed,Page Rank,GraphSage,908,1,2,1,1
+PubMed,Page Rank,GraphSage,920,19,4,-15,0
+PubMed,Page Rank,GraphSage,929,293,256,-37,0
+PubMed,Page Rank,GraphSage,938,38,48,10,1
+PubMed,Page Rank,GraphSage,956,3,27,24,1
+PubMed,Page Rank,GraphSage,963,20,77,57,1
+PubMed,Page Rank,GraphSage,966,1,1,0,0
+PubMed,Page Rank,GraphSage,968,1,1,0,0
+PubMed,Page Rank,GraphSage,988,19,21,2,1
+PubMed,Page Rank,GraphSage,997,3,13,10,1
+PubMed,Page Rank,GraphSage,1000,38,19,-19,0
+PubMed,Viking,GraphSage,2,1,1,0,0
+PubMed,Viking,GraphSage,10,1,2,1,1
+PubMed,Viking,GraphSage,47,1,1,0,0
+PubMed,Viking,GraphSage,49,1,1,0,0
+PubMed,Viking,GraphSage,57,1,1,0,0
+PubMed,Viking,GraphSage,70,112,71,-41,0
+PubMed,Viking,GraphSage,75,4,1,-3,0
+PubMed,Viking,GraphSage,89,20,23,3,1
+PubMed,Viking,GraphSage,107,1391,1395,4,1
+PubMed,Viking,GraphSage,110,1,1,0,0
+PubMed,Viking,GraphSage,114,2,2,0,0
+PubMed,Viking,GraphSage,128,3,5,2,1
+PubMed,Viking,GraphSage,152,1,1,0,0
+PubMed,Viking,GraphSage,159,1,1,0,0
+PubMed,Viking,GraphSage,160,1,1,0,0
+PubMed,Viking,GraphSage,162,5,56,51,1
+PubMed,Viking,GraphSage,165,1,1,0,0
+PubMed,Viking,GraphSage,167,1,1,0,0
+PubMed,Viking,GraphSage,173,1,3,2,1
+PubMed,Viking,GraphSage,198,234,1150,916,1
+PubMed,Viking,GraphSage,207,1,1,0,0
+PubMed,Viking,GraphSage,209,42,32,-10,0
+PubMed,Viking,GraphSage,215,7,9,2,1
+PubMed,Viking,GraphSage,216,1,12,11,1
+PubMed,Viking,GraphSage,222,5,2,-3,0
+PubMed,Viking,GraphSage,257,2,3,1,1
+PubMed,Viking,GraphSage,261,15,5,-10,0
+PubMed,Viking,GraphSage,273,7,9,2,1
+PubMed,Viking,GraphSage,297,1,1,0,0
+PubMed,Viking,GraphSage,315,3,14,11,1
+PubMed,Viking,GraphSage,324,1,1,0,0
+PubMed,Viking,GraphSage,325,18,17,-1,0
+PubMed,Viking,GraphSage,328,2,22,20,1
+PubMed,Viking,GraphSage,361,1,1,0,0
+PubMed,Viking,GraphSage,363,1,4,3,1
+PubMed,Viking,GraphSage,370,10,7,-3,0
+PubMed,Viking,GraphSage,371,1,2,1,1
+PubMed,Viking,GraphSage,380,1,1,0,0
+PubMed,Viking,GraphSage,382,9,3,-6,0
+PubMed,Viking,GraphSage,383,8,8,0,0
+PubMed,Viking,GraphSage,386,1,1,0,0
+PubMed,Viking,GraphSage,393,19,16,-3,0
+PubMed,Viking,GraphSage,404,1,1,0,0
+PubMed,Viking,GraphSage,409,1,10,9,1
+PubMed,Viking,GraphSage,421,2,2,0,0
+PubMed,Viking,GraphSage,443,3,3,0,0
+PubMed,Viking,GraphSage,468,4,6,2,1
+PubMed,Viking,GraphSage,482,9,94,85,1
+PubMed,Viking,GraphSage,484,86,153,67,1
+PubMed,Viking,GraphSage,487,1,1,0,0
+PubMed,Viking,GraphSage,491,7,7,0,0
+PubMed,Viking,GraphSage,501,20,17,-3,0
+PubMed,Viking,GraphSage,512,4,3,-1,0
+PubMed,Viking,GraphSage,535,1,2,1,1
+PubMed,Viking,GraphSage,536,2,5,3,1
+PubMed,Viking,GraphSage,539,1,1,0,0
+PubMed,Viking,GraphSage,552,8,30,22,1
+PubMed,Viking,GraphSage,557,1,1,0,0
+PubMed,Viking,GraphSage,558,1,2,1,1
+PubMed,Viking,GraphSage,566,8,9,1,1
+PubMed,Viking,GraphSage,574,15,19,4,1
+PubMed,Viking,GraphSage,579,10,50,40,1
+PubMed,Viking,GraphSage,588,1,1,0,0
+PubMed,Viking,GraphSage,592,11,27,16,1
+PubMed,Viking,GraphSage,624,1,1,0,0
+PubMed,Viking,GraphSage,636,1,3,2,1
+PubMed,Viking,GraphSage,643,2,3,1,1
+PubMed,Viking,GraphSage,645,1,1,0,0
+PubMed,Viking,GraphSage,661,1,2,1,1
+PubMed,Viking,GraphSage,673,1,1,0,0
+PubMed,Viking,GraphSage,675,1,1,0,0
+PubMed,Viking,GraphSage,677,1,41,40,1
+PubMed,Viking,GraphSage,686,3,7,4,1
+PubMed,Viking,GraphSage,690,4,3,-1,0
+PubMed,Viking,GraphSage,707,2,2,0,0
+PubMed,Viking,GraphSage,713,4,5,1,1
+PubMed,Viking,GraphSage,721,15,15,0,0
+PubMed,Viking,GraphSage,723,5,19,14,1
+PubMed,Viking,GraphSage,724,1,2,1,1
+PubMed,Viking,GraphSage,748,1,1,0,0
+PubMed,Viking,GraphSage,752,8,12,4,1
+PubMed,Viking,GraphSage,755,1,1,0,0
+PubMed,Viking,GraphSage,770,7,7,0,0
+PubMed,Viking,GraphSage,777,2,1,-1,0
+PubMed,Viking,GraphSage,782,2,3,1,1
+PubMed,Viking,GraphSage,835,1,1,0,0
+PubMed,Viking,GraphSage,846,7,54,47,1
+PubMed,Viking,GraphSage,885,2,4,2,1
+PubMed,Viking,GraphSage,889,6,5,-1,0
+PubMed,Viking,GraphSage,908,1,1,0,0
+PubMed,Viking,GraphSage,920,19,7,-12,0
+PubMed,Viking,GraphSage,929,293,278,-15,0
+PubMed,Viking,GraphSage,938,38,20,-18,0
+PubMed,Viking,GraphSage,956,3,1,-2,0
+PubMed,Viking,GraphSage,963,20,77,57,1
+PubMed,Viking,GraphSage,966,1,1,0,0
+PubMed,Viking,GraphSage,968,1,1,0,0
+PubMed,Viking,GraphSage,988,19,12,-7,0
+PubMed,Viking,GraphSage,997,3,1,-2,0
+PubMed,Viking,GraphSage,1000,38,43,5,1
+PubMed,Proposed Method,GraphSage,2,1,1,0,0
+PubMed,Proposed Method,GraphSage,10,1,2,1,1
+PubMed,Proposed Method,GraphSage,47,1,1,0,0
+PubMed,Proposed Method,GraphSage,49,1,1,0,0
+PubMed,Proposed Method,GraphSage,57,1,1,0,0
+PubMed,Proposed Method,GraphSage,70,112,229,117,1
+PubMed,Proposed Method,GraphSage,75,4,10,6,1
+PubMed,Proposed Method,GraphSage,89,20,21,1,1
+PubMed,Proposed Method,GraphSage,107,1391,2158,767,1
+PubMed,Proposed Method,GraphSage,110,1,1,0,0
+PubMed,Proposed Method,GraphSage,114,2,2,0,0
+PubMed,Proposed Method,GraphSage,128,3,10,7,1
+PubMed,Proposed Method,GraphSage,152,1,4,3,1
+PubMed,Proposed Method,GraphSage,159,1,1,0,0
+PubMed,Proposed Method,GraphSage,160,1,2,1,1
+PubMed,Proposed Method,GraphSage,162,5,52,47,1
+PubMed,Proposed Method,GraphSage,165,1,2,1,1
+PubMed,Proposed Method,GraphSage,167,1,1,0,0
+PubMed,Proposed Method,GraphSage,173,1,3,2,1
+PubMed,Proposed Method,GraphSage,198,234,1294,1060,1
+PubMed,Proposed Method,GraphSage,207,1,2,1,1
+PubMed,Proposed Method,GraphSage,209,42,75,33,1
+PubMed,Proposed Method,GraphSage,215,7,10,3,1
+PubMed,Proposed Method,GraphSage,216,1,2,1,1
+PubMed,Proposed Method,GraphSage,222,5,5,0,0
+PubMed,Proposed Method,GraphSage,257,2,66,64,1
+PubMed,Proposed Method,GraphSage,261,15,6,-9,0
+PubMed,Proposed Method,GraphSage,273,7,16,9,1
+PubMed,Proposed Method,GraphSage,297,1,7,6,1
+PubMed,Proposed Method,GraphSage,315,3,14,11,1
+PubMed,Proposed Method,GraphSage,324,1,1,0,0
+PubMed,Proposed Method,GraphSage,325,18,25,7,1
+PubMed,Proposed Method,GraphSage,328,2,47,45,1
+PubMed,Proposed Method,GraphSage,361,1,3,2,1
+PubMed,Proposed Method,GraphSage,363,1,2,1,1
+PubMed,Proposed Method,GraphSage,370,10,13,3,1
+PubMed,Proposed Method,GraphSage,371,1,2,1,1
+PubMed,Proposed Method,GraphSage,380,1,1,0,0
+PubMed,Proposed Method,GraphSage,382,9,37,28,1
+PubMed,Proposed Method,GraphSage,383,8,8,0,0
+PubMed,Proposed Method,GraphSage,386,1,6,5,1
+PubMed,Proposed Method,GraphSage,393,19,60,41,1
+PubMed,Proposed Method,GraphSage,404,1,2,1,1
+PubMed,Proposed Method,GraphSage,409,1,10,9,1
+PubMed,Proposed Method,GraphSage,421,2,8,6,1
+PubMed,Proposed Method,GraphSage,443,3,4,1,1
+PubMed,Proposed Method,GraphSage,468,4,2,-2,0
+PubMed,Proposed Method,GraphSage,482,9,94,85,1
+PubMed,Proposed Method,GraphSage,484,86,143,57,1
+PubMed,Proposed Method,GraphSage,487,1,1,0,0
+PubMed,Proposed Method,GraphSage,491,7,58,51,1
+PubMed,Proposed Method,GraphSage,501,20,40,20,1
+PubMed,Proposed Method,GraphSage,512,4,11,7,1
+PubMed,Proposed Method,GraphSage,535,1,1,0,0
+PubMed,Proposed Method,GraphSage,536,2,36,34,1
+PubMed,Proposed Method,GraphSage,539,1,1,0,0
+PubMed,Proposed Method,GraphSage,552,8,7,-1,0
+PubMed,Proposed Method,GraphSage,557,1,26,25,1
+PubMed,Proposed Method,GraphSage,558,1,3,2,1
+PubMed,Proposed Method,GraphSage,566,8,9,1,1
+PubMed,Proposed Method,GraphSage,574,15,109,94,1
+PubMed,Proposed Method,GraphSage,579,10,99,89,1
+PubMed,Proposed Method,GraphSage,588,1,1,0,0
+PubMed,Proposed Method,GraphSage,592,11,15,4,1
+PubMed,Proposed Method,GraphSage,624,1,5,4,1
+PubMed,Proposed Method,GraphSage,636,1,7,6,1
+PubMed,Proposed Method,GraphSage,643,2,3,1,1
+PubMed,Proposed Method,GraphSage,645,1,1,0,0
+PubMed,Proposed Method,GraphSage,661,1,2,1,1
+PubMed,Proposed Method,GraphSage,673,1,2,1,1
+PubMed,Proposed Method,GraphSage,675,1,2,1,1
+PubMed,Proposed Method,GraphSage,677,1,18,17,1
+PubMed,Proposed Method,GraphSage,686,3,31,28,1
+PubMed,Proposed Method,GraphSage,690,4,9,5,1
+PubMed,Proposed Method,GraphSage,707,2,3,1,1
+PubMed,Proposed Method,GraphSage,713,4,23,19,1
+PubMed,Proposed Method,GraphSage,721,15,15,0,0
+PubMed,Proposed Method,GraphSage,723,5,28,23,1
+PubMed,Proposed Method,GraphSage,724,1,2,1,1
+PubMed,Proposed Method,GraphSage,748,1,2,1,1
+PubMed,Proposed Method,GraphSage,752,8,13,5,1
+PubMed,Proposed Method,GraphSage,755,1,1,0,0
+PubMed,Proposed Method,GraphSage,770,7,52,45,1
+PubMed,Proposed Method,GraphSage,777,2,18,16,1
+PubMed,Proposed Method,GraphSage,782,2,3,1,1
+PubMed,Proposed Method,GraphSage,835,1,1,0,0
+PubMed,Proposed Method,GraphSage,846,7,61,54,1
+PubMed,Proposed Method,GraphSage,885,2,7,5,1
+PubMed,Proposed Method,GraphSage,889,6,8,2,1
+PubMed,Proposed Method,GraphSage,908,1,1,0,0
+PubMed,Proposed Method,GraphSage,920,19,232,213,1
+PubMed,Proposed Method,GraphSage,929,293,205,-88,0
+PubMed,Proposed Method,GraphSage,938,38,40,2,1
+PubMed,Proposed Method,GraphSage,956,3,3,0,0
+PubMed,Proposed Method,GraphSage,963,20,84,64,1
+PubMed,Proposed Method,GraphSage,966,1,1,0,0
+PubMed,Proposed Method,GraphSage,968,1,1,0,0
+PubMed,Proposed Method,GraphSage,988,19,33,14,1
+PubMed,Proposed Method,GraphSage,997,3,19,16,1
+PubMed,Proposed Method,GraphSage,1000,38,65,27,1
