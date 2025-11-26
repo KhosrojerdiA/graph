@@ -1,15 +1,21 @@
+
+
 import sys
 import os
 
-prn_project_path = '/mnt/data/khosro/Graph_v2'
-sys.path.append(prn_project_path)
+project_root = '/mnt/data/khosro/Graph_v2'
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
 
+from utils.utils import load_data_for_embeddings
+
+
+import os
 import yaml
 import numpy
 import argparse
 import os.path as osp
 import random
-
 from time import time as t
 import torch
 from torch_geometric.utils import dropout_adj, degree, to_undirected
@@ -111,8 +117,13 @@ if __name__ == '__main__':
 
     # ---------------- Dataset ----------------
     path = osp.join(osp.expanduser('~'), 'datasets', dataset_name)
-    dataset = get_dataset(path, dataset_name)
-    data = dataset[0].to(device)
+    #dataset = get_dataset(path, dataset_name)
+    #data = dataset[0].to(device)
+
+    dataset, data = load_data_for_embeddings(project_root, dataset_name)
+    dataset = dataset.to(device)
+    data = data.to(device)
+
 
     # ---------------- Split ----------------
     split = generate_split(data.num_nodes, train_ratio=0.1, val_ratio=0.1)

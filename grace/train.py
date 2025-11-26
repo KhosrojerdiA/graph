@@ -3,8 +3,11 @@
 import sys
 import os
 
-prn_project_path = '/mnt/data/khosro/Graph_v2'
-sys.path.append(prn_project_path)
+project_root = '/mnt/data/khosro/Graph_v2'
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+
+from utils.utils import load_data_for_embeddings
 
 import argparse
 import os.path as osp
@@ -12,7 +15,7 @@ import random
 from time import perf_counter as t
 import yaml
 from yaml import SafeLoader
-
+from gca.dataset import get_dataset
 import torch
 import torch_geometric.transforms as T
 import torch.nn.functional as F
@@ -48,16 +51,6 @@ def test(model: Model, x, edge_index, y, final=False):
     z = model(x, edge_index)
 
     label_classification(z, y, ratio=0.1)
-
-
-def get_dataset(path, name):
-    assert name in ['Cora', 'CiteSeer', 'PubMed', 'DBLP']
-    name = 'dblp' if name == 'DBLP' else name
-
-    if name == 'dblp':
-        return CitationFull(path, name, transform=T.NormalizeFeatures())
-    else:
-        return Planetoid(path, name, transform=T.NormalizeFeatures())
 
 
 
@@ -128,8 +121,10 @@ if __name__ == '__main__':
     weight_decay = config['weight_decay']
 
     path = osp.join(osp.expanduser('~'), 'datasets', dataset)
-    dataset = get_dataset(path, dataset)
-    data = dataset[0]
+    #dataset = get_dataset(path, dataset)
+    #data = dataset[0]
+
+    dataset, data = load_data_for_embeddings(project_root, dataset)
 
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     data = data.to(device)
