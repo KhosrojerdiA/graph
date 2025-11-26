@@ -3,8 +3,8 @@
 import sys
 ep_tr_path = '/mnt/data/khosro/Graph_v2'
 sys.path.append(ep_tr_path)
-
-from utils.utils import *
+ 
+from utils.utils import load_data_for_embeddings
 from EPAGCL.epagcl import *
 import os
 import torch
@@ -84,6 +84,6 @@ dataset_subgraph_path = f"{ep_tr_path}/data/pubmed_subgraph.pt"
 main_seed = 3708
 save_dir = f"{ep_tr_path}/EPAGCL/embeddings"
 
-data = load_data(data_name, dataset_subgraph_path)
+dataset, data = load_data_for_embeddings(ep_tr_path, data_name)
 
 epagcl_embeddings(data, data_name, graph_model, save_dir, epochs, text, main_seed)

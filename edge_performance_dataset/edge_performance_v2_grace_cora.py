@@ -110,10 +110,8 @@ embedding_version = 'v1'
 #____________________________________________________________________________________________________________________________________
 
 ep_save_path = f"{ep_path}/edge_performance_dataset"
-
-
 os.makedirs(os.path.dirname(ep_save_path), exist_ok=True)
-dataset_subgraph_path = f"{ep_path}/data/pubmed_subgraph.pt"
+
 
 main_seed = 3708
 
@@ -128,7 +126,7 @@ for data_name in data_name_list:
         else:   
             embeddings_save_dir = f"{ep_path}/{graph_model}/embeddings"
 
-        data = load_data(data_name, dataset_subgraph_path)
+        data = load_data(ep_path, data_name)
         calculate_edge_performance_v2(data, graph_model, data_name, ep_save_path, embeddings_save_dir, embedding_version) 
 
 

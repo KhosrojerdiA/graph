@@ -12,7 +12,7 @@ sys.path.append(ep_path)
 #torch.manual_seed(3708) 
 
 from utils.utils import *
-from retrieval.retrieval_epaglc_v4 import * 
+from Graph_v2.retrieval.retrieval_epaglc_Nov_24_2025 import * 
 import torch
 from torch_geometric.datasets import Planetoid
 
@@ -33,23 +33,9 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 
 trained_models_path = f"{ep_path}/edge_performance_dataset"
-dataset_subgraph_path = f"{ep_path}/data/pubmed_subgraph.pt"
+data = load_data(ep_path, data_name)       
 
 #____________________________________________________________ Seeds ____________________________________________________________
-
-if data_name == 'CiteSeer': 
-    dataset = Planetoid(root='data/Planetoid', name='CiteSeer')
-    data = dataset[0]
-elif data_name == 'Cora': 
-    dataset = Planetoid(root='data/Planetoid', name='Cora')
-    data = dataset[0]
-elif data_name == 'PubMed':
-    dataset = torch.load(dataset_subgraph_path)
-    data = dataset
-                        
-
-#________________________________________________________________________________________________________________________
-
 
 
 simplified_performance = load_edge_performance_change_position(graph_model, data_name, ep_path)
