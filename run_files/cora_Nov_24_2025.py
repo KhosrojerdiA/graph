@@ -7,7 +7,7 @@ main_path = '/mnt/data/khosro/Graph_v2'
 sys.path.append(main_path)
 
 from utils.utils import *
-from retrieval.retrieval_epaglc_v4 import * 
+from Graph_v2.retrieval.retrieval_epaglc_Nov_24_2025 import * 
 from attack_models.per_node_attack_v4 import *  
 import torch
 from torch_geometric.datasets import Planetoid

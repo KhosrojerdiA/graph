@@ -9,7 +9,7 @@ sys.path.append(te_path)
 
 
 from EPAGCL.epagcl import * 
-from retrieval.retrieval_epaglc_v4 import * 
+from Graph_v2.retrieval.retrieval_epaglc_Nov_24_2025 import * 
 from utils.utils import *
 from utils.utils_scorer import *
 import copy
