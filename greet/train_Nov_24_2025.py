@@ -2,8 +2,11 @@
 import sys
 import os
 
-prn_project_path = '/mnt/data/khosro/Graph_v2'
-sys.path.append(prn_project_path)
+project_root = '/mnt/data/khosro/Graph_v2'
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+
+from utils.utils import load_data_for_embeddings
 
 from greet.data_loader import load_data
 from greet.model import *
@@ -133,7 +136,7 @@ def load_model(save_dir, dataset, device="cuda"):
 def main(args, dataset_name, save_dir):
 
     setup_seed(0)
-    features, edges, str_encodings, train_mask, val_mask, test_mask, labels, nnodes, nfeats = load_data(dataset_name)
+    features, edges, str_encodings, train_mask, val_mask, test_mask, labels, nnodes, nfeats = load_data(dataset_name, project_root)
     results = []
 
     for trial in range(args.ntrials):

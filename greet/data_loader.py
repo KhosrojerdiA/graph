@@ -1,4 +1,7 @@
 
+import sys
+import os
+
 
 import warnings
 import torch
@@ -9,7 +12,16 @@ import torch_geometric.transforms as T
 from torch_geometric.datasets import Planetoid, CitationFull, WikipediaNetwork, Actor, WebKB, Amazon, Coauthor, WikiCS
 from torch_geometric.utils import remove_self_loops
 
+project_root_2 = '/mnt/data/khosro/Graph_v2'
+if project_root_2 not in sys.path:
+    sys.path.insert(0, project_root_2)
+
+from utils.utils import load_data_for_embeddings
+
 warnings.simplefilter("ignore")
+
+
+
 
 
 def get_split(num_samples: int, train_ratio: float = 0.1, test_ratio: float = 0.8, num_splits: int = 10):
@@ -68,8 +80,9 @@ def get_structural_encoding(edges, nnodes, str_enc_dim=16):
     return SE
 
 
-def load_data(dataset_name):
+def load_data(dataset_name, prn_project_path):
 
+    '''
     path = os.path.join(os.path.dirname(os.path.realpath(__file__)), '.', 'data', dataset_name)
 
     if dataset_name in ['Cora', 'CiteSeer', 'PubMed']:
@@ -92,6 +105,10 @@ def load_data(dataset_name):
         dataset = WikiCS(path)
 
     data = dataset[0]
+
+    '''
+
+    dataset, data = load_data_for_embeddings(prn_project_path, dataset_name)
 
     edges = remove_self_loops(data.edge_index)[0]
 
