@@ -1,0 +1,8 @@
+
+# Ignore edge performance dataset file
+edge_performance_dataset/*.pkl
+
+# Ignore embeddings folder
+embeddings/
+
+
