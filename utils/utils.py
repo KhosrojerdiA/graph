@@ -1441,19 +1441,38 @@ def node_retrieval_position(node_id, retrieval_list):
 
 #____________________________________________________________________________________________________________________________
 
-def load_data(data_name, dataset_subgraph_path):
+def load_data(ep_path, data_name):
 
     if data_name == 'CiteSeer': 
-        dataset = Planetoid(root='data/Planetoid', name='CiteSeer')
+        dataset = Planetoid(root=f'{ep_path}/data/Planetoid', name='CiteSeer')
         data = dataset[0]
     elif data_name == 'Cora': 
-        dataset = Planetoid(root='data/Planetoid', name='Cora')
+        dataset = Planetoid(root=f'{ep_path}/data/Planetoid', name='Cora')
         data = dataset[0]
     elif data_name == 'PubMed':
-        dataset = torch.load(dataset_subgraph_path, weights_only=False) #torch.load(dataset_subgraph_path)
+        #dataset = torch.load(dataset_subgraph_path)
+        dataset = torch.load(f'{ep_path}/data/pubmed_subgraph.pt', weights_only=False) #torch.load(dataset_subgraph_path)
         data = remove_isolated_nodes(dataset)
 
     return data
+
+
+
+def load_data_for_embeddings(ep_path, dataset):
+
+    if dataset == 'CiteSeer': 
+        dataset = Planetoid(root=f'{ep_path}/data/Planetoid', name='CiteSeer')
+        data = dataset[0]
+    elif dataset == 'Cora': 
+        dataset = Planetoid(root=f'{ep_path}/data/Planetoid', name='Cora')
+        data = dataset[0]
+    elif dataset == 'PubMed':
+        #dataset = torch.load(dataset_subgraph_path)
+        dataset = Planetoid(root=f'{ep_path}/data/Planetoid', name='PubMed')
+        data = torch.load(f'{ep_path}/data/pubmed_subgraph.pt', weights_only=False) #torch.load(dataset_subgraph_path)
+        data = remove_isolated_nodes(dataset)
+
+    return dataset, data
 
 #____________________________________________________________________________________________________________________________
 
@@ -1602,6 +1621,6 @@ def load_embedding_model(data, graph_model, data_name, embeddings_save_dir, embe
     print("____________________________________________")
 
 
-    return model, dataset_embeddings
+    return model, dataset_embeddings 
 
 #____________________________________________________________________________________________________________________________
